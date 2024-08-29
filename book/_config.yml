@@ -5,8 +5,8 @@
 
 #######################################################################################
 # Book settings
-title                       : my-jb-book  # The title of the book
-author                      : Authors  # The author of the book
+title                       : ARTMIP  # The title of the book
+author                      : Christine Shields  # The author of the book
 copyright                   : "2024"  # Copyright year to be placed in the footer
 logo                        : logo.png  # A path to the book logo
 
