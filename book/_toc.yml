@@ -4,8 +4,21 @@
 format: jb-book
 root: intro
 chapters:
-- file: myst-markdown
-- file: notebooks/ipynb-notebook
-- file: notebooks/myst-notebook
-- file: notebooks/ATOC4500_Final_Project.ipynb
-  title: ATOC4500 Final Project
+- file: program-goals
+  title: Program Goals
+- file: algorithms
+  title: Algorithms
+- file: experimental-design
+  title: Experimental Design
+- file: timeline
+  title: Timeline
+- file: participants
+  title: Participants
+- file: workshops-meetings
+  title: Workshops & Meetings
+- file: publications
+  title: Publications
+- file: policies
+  title: Policies
+- file: sponsors
+  title: Sponsors
