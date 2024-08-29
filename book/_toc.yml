@@ -1,0 +1,11 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+chapters:
+- file: myst-markdown
+- file: notebooks/ipynb-notebook
+- file: notebooks/myst-notebook
+- file: notebooks/ATOC4500_Final_Project.ipynb
+  title: ATOC4500 Final Project
