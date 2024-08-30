@@ -3,10 +3,25 @@
 ## What are Atmospheric Rivers (ARs)?
 Atmospheric rivers (ARs) are dynamically driven, filamentary structures that account for ~90% of poleward water vapor transport outside of the tropics, despite occupying only ~10% of the available longitude. They are often associated with extreme winter storms and heavy precipitation along the western coasts of mid-latitude continents and have the ability to produce major flooding events and/or relieve droughts. Because ARs play such an important role in the global hydrological cycle as well as to regional water resources, understanding how they may vary from subseasonal-to-interannual time scale and change in a warmer climate is critical to advancing understanding and prediction of regional precipitation.
 
-Atmospheric River event January 24 05 GMT. One event among many impacting the UK during the winter of 2013/2014. |  Atmospheric River event February 10 00 GMT. The Oroville Dam Crisis, in northern California, occurred during this event in 2017.
-:---:|:---:
-![A satellite image of an Atmospheric River impacting the UK](ARTMIP_2014Jan24.UK_.flooding.jpg)  |  ![A satellite image of an Atmospheric River impacting Northern California](ARTMIP_2017Feb10.OrovilleDamCrisis-cropped.jpg)
 
+<p align="middle">
+  <figure style='display: table'>
+    <img src="ARTMIP_2014Jan24.UK_.flooding.jpg" width="49%" />
+    <figcaption style='display: table-caption; caption-side: bottom;'>Atmospheric River event January 24 05 GMT. One event among many impacting the UK during the winter of 2013/2014.</figcaption>
+  </figure>
+  <figure class="inline end" >
+    <img src="ARTMIP_2017Feb10.OrovilleDamCrisis-cropped.jpg" width="49%" /> 
+  <figcaption>Fig 2</figcaption>
+  </figure>
+</p>
+<p>
+  Fig 1: Atmospheric River event January 24 05 GMT. One event among many impacting the UK during the winter of 2013/2014.
+  Fig 2: Atmospheric River event February 10 00 GMT. The Oroville Dam Crisis, in northern California, occurred during this event in 2017.
+</p>
+
+| <div style="width:49%">Atmospheric River event January 24 05 GMT. One event among many impacting the UK during the winter of 2013/2014.</div> | <div style="width:290px">Atmospheric River event February 10 00 GMT. The Oroville Dam Crisis, in northern California, occurred during this event in 2017.</div> |
+| :--- | :--- |
+|  ![A satellite image of an Atmospheric River impacting the UK](ARTMIP_2014Jan24.UK_.flooding.jpg)  |  ![A satellite image of an Atmospheric River impacting Northern California](ARTMIP_2017Feb10.OrovilleDamCrisis-cropped.jpg)  |
 
 
 <kbd> <br> [VIEW SATELLITE IMAGERY SOURCE](https://tropic.ssec.wisc.edu/real-time/mimic-tpw/global/main.html) <br> </kbd>
@@ -31,3 +46,9 @@ The goal of ARTMIP is to understand and quantify uncertainties in atmospheric ri
 | Rachel C. | learn to use github, resolve merge conflicts | I am familiar with our dataset | Team Member  |
 | ... | ... | ... | ... |
 | ... | ... | ... | ... |
+
+
+
+Atmospheric River event January 24 05 GMT. One event among many impacting the UK during the winter of 2013/2014. |  Atmospheric River event February 10 00 GMT. The Oroville Dam Crisis, in northern California, occurred during this event in 2017.
+:---:|:---:
+![A satellite image of an Atmospheric River impacting the UK](ARTMIP_2014Jan24.UK_.flooding.jpg)  |  ![A satellite image of an Atmospheric River impacting Northern California](ARTMIP_2017Feb10.OrovilleDamCrisis-cropped.jpg)
