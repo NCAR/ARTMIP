@@ -32,8 +32,9 @@ Atmospheric rivers (ARs) are dynamically driven, filamentary structures that acc
 | :---: | :---: |
 |  ![A satellite image of an Atmospheric River impacting the UK](images/ARTMIP_2014Jan24.UK_.flooding.jpg)  |  ![A satellite image of an Atmospheric River impacting Northern California](images/ARTMIP_2017Feb10.OrovilleDamCrisis-cropped.jpg)  |
 
-
-<kbd> <br> [VIEW SATELLITE IMAGERY SOURCE](https://tropic.ssec.wisc.edu/real-time/mimic-tpw/global/main.html) <br> </kbd>
+<p align="center">
+  <kbd> <br> [VIEW SATELLITE IMAGERY SOURCE](https://tropic.ssec.wisc.edu/real-time/mimic-tpw/global/main.html) <br> </kbd>
+</p>
 
 ## What is the purpose of ARTMIP?
 The goal of ARTMIP is to understand and quantify uncertainties in atmospheric river (AR) science based on choice of detection/tracking methodology. The climatological characteristics of ARs, such as AR frequency, duration, intensity, and seasonality, are all strongly dependent on the method used to identify ARs. It is, however, the precipitation attributable to ARs that is perhaps most strongly affected, and this has significant implications for our understanding of how ARs contribute to regional hydroclimate now and in the future.
