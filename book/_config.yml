@@ -8,7 +8,7 @@
 title                       : ARTMIP  # The title of the book
 author                      : Christine Shields  # The author of the book
 copyright                   : "2024"  # Copyright year to be placed in the footer
-logo                        : ARTMIP_logo.jpg  # A path to the book logo
+logo                        : images/ARTMIP_logo.jpg  # A path to the book logo
 
 # Whether to reexecute notebooks on each build.
 # See https://jupyterbook.org/content/execute.html
