@@ -3,7 +3,7 @@
 ## What are Atmospheric Rivers (ARs)?
 Atmospheric rivers (ARs) are dynamically driven, filamentary structures that account for ~90% of poleward water vapor transport outside of the tropics, despite occupying only ~10% of the available longitude. They are often associated with extreme winter storms and heavy precipitation along the western coasts of mid-latitude continents and have the ability to produce major flooding events and/or relieve droughts. Because ARs play such an important role in the global hydrological cycle as well as to regional water resources, understanding how they may vary from subseasonal-to-interannual time scale and change in a warmer climate is critical to advancing understanding and prediction of regional precipitation.
 
-
+<!--- This is me trying a different method to not have the images in a table
 <p align="middle">
   <figure style='display: table'>
     <img src="ARTMIP_2014Jan24.UK_.flooding.jpg" width="49%" />
@@ -18,37 +18,68 @@ Atmospheric rivers (ARs) are dynamically driven, filamentary structures that acc
   Fig 1: Atmospheric River event January 24 05 GMT. One event among many impacting the UK during the winter of 2013/2014.
   Fig 2: Atmospheric River event February 10 00 GMT. The Oroville Dam Crisis, in northern California, occurred during this event in 2017.
 </p>
+--->
 
-| <div style="width:49%">Atmospheric River event January 24 05 GMT. One event among many impacting the UK during the winter of 2013/2014.</div> | <div style="width:290px">Atmospheric River event February 10 00 GMT. The Oroville Dam Crisis, in northern California, occurred during this event in 2017.</div> |
+<!--- A method to make the images the same size, but feels clunky and won't change size based on screen size
+| Atmospheric River event January 24 05 GMT. One event among many impacting the UK during the winter of 2013/2014. | Atmospheric River event February 10 00 GMT. The Oroville Dam Crisis, in northern California, occurred during this event in 2017. |
 | :--- | :--- |
+|  <img src="ARTMIP_2014Jan24.UK_.flooding.jpg" width=500 />  |  <img src="ARTMIP_2017Feb10.OrovilleDamCrisis-cropped.jpg" width=463 />  |
+
+<br>
+--->
+
+| <div style="width:49%">Atmospheric River event January 24 05 GMT. One event among many impacting the UK during the winter of 2013/2014.</div> | <div style="width:49%">Atmospheric River event February 10 00 GMT. The Oroville Dam Crisis, in northern California, occurred during this event in 2017.</div> |
+| :---: | :---: |
 |  ![A satellite image of an Atmospheric River impacting the UK](ARTMIP_2014Jan24.UK_.flooding.jpg)  |  ![A satellite image of an Atmospheric River impacting Northern California](ARTMIP_2017Feb10.OrovilleDamCrisis-cropped.jpg)  |
 
 
 <kbd> <br> [VIEW SATELLITE IMAGERY SOURCE](https://tropic.ssec.wisc.edu/real-time/mimic-tpw/global/main.html) <br> </kbd>
 
-Here I need to add some images
-
 ## What is the purpose of ARTMIP?
 The goal of ARTMIP is to understand and quantify uncertainties in atmospheric river (AR) science based on choice of detection/tracking methodology. The climatological characteristics of ARs, such as AR frequency, duration, intensity, and seasonality, are all strongly dependent on the method used to identify ARs. It is, however, the precipitation attributable to ARs that is perhaps most strongly affected, and this has significant implications for our understanding of how ARs contribute to regional hydroclimate now and in the future.
 
-* Edit `_config.yml` with your title, authors, repo name etc.
-* Add new notebooks in the `notebooks` folder
-* Add those notebooks into `_toc.yml`
+<figure>
+  <img src="Experimental03-Dettinger-Rutz-GuanWaliser.jpg" width="80%" /> 
+  <figcaption>The figure above shows (left and center) the fraction of cool-season precipitation attributable to ARs from Dettinger et al. (2011), Rutz et al. (2014). (Right) as in (left and center), but for annual precipitation. These studies use different AR identification methods, as well as different atmospheric re-analyses and observed precipitation datasets.</figcaption>
+</figure>
 
-### Collaborators
+Scientific focus on ARs has grown exponentially over the last decade, and consequently there are many methods to track them. Quantifying the uncertainties associated with AR tracking methods, and understanding the implications of their differences is the motivation for ARTMIP. The below chart summarizes the many different algorithmic approaches found in current literature by broadly categorizing the variety of parameters used for identification and tracking, and then listing different types of choices available per category.
 
+<figure>
+  <img src="AlgorithmGrid.v2.jpg" width="80%" /> 
+  <figcaption>Algorithm Grid, by Christine Shields</figcaption>
+</figure>
 
-| Name | Personal goals | Can help with | Role |
-| ------------- | ------------- | ------------- | ------------- |
-| Katherine J. | I want to learn specific python libraries for working with these data  | I can help with understanding our dataset, programming in R  | Project Lead |
-| Rosalind F. | Practice leading a software project | machine learning and python (scipy, scikit-learn) | Project Lead |
-| Alan T. | learning about your dataset | GitHub, Jupyter, cloud computing | Project Helper |
-| Rachel C. | learn to use github, resolve merge conflicts | I am familiar with our dataset | Team Member  |
-| ... | ... | ... | ... |
-| ... | ... | ... | ... |
+## Committee Members
+* **Christine Shields**, Co-chair
+* **Jonathan Rutz**, Co-chair
+* **Michael Wehner**, Committee member
+* **Ruby Leung**, Committee member
+* **Marty Ralph**, Committee member
+* **Ashley Payne**, Committee member
+* **Travis O'Brien**, Committee member
+* **Allison Collow**, Committee member
 
+For more information, please contact a committee member.
 
+## ARTMIP Sponsors
+Organizing Committee Sponsors are listed below.
 
-Atmospheric River event January 24 05 GMT. One event among many impacting the UK during the winter of 2013/2014. |  Atmospheric River event February 10 00 GMT. The Oroville Dam Crisis, in northern California, occurred during this event in 2017.
-:---:|:---:
-![A satellite image of an Atmospheric River impacting the UK](ARTMIP_2014Jan24.UK_.flooding.jpg)  |  ![A satellite image of an Atmospheric River impacting Northern California](ARTMIP_2017Feb10.OrovilleDamCrisis-cropped.jpg)
+<p align="middle">
+  <img src="logo-ncar.png" width="25%" />
+  <img src="logo-noaa.png" width="25%" /> 
+  <img src="logo-nws.png" width="25%" /> 
+  <img src="logo-doe.png" width="25%" /> 
+  <img src="logo-cw3e.png" width="25%" /> 
+  <img src="logo-lbnl.png" width="25%" /> 
+  <img src="logo-pnnl.png" width="25%" /> 
+  <img src="logo-ucsd.png" width="25%" /> 
+  <img src="logo-nsf.png" width="25%" /> 
+</p>
+
+<!--- A table method
+| :---: | :---: | :---: | :---: |
+| ![NSF NCAR](logo-ncar.png) | ![NOAA](logo-noaa.png) | ![NWS](logo-nws.png) | ![DOE](logo-doe.png) |
+| ![CW3E](logo-cw3e.png) | ![Berkeley Lab](logo-lbnl.png) | ![PNNL](logo-pnnl.png) | ![Scripps](logo-ucsd.png) |
+| ![NSF](logo-nsf.jpg) | ![]() | ![]() | ![]() |
+--->
