@@ -2,7 +2,8 @@
 ARTMIP provides the framework necessary to compare each of these different algorithms which will ultimately allow independent researchers to understand what types of algorithms are best for specific science questions.
 
 ## Tier 1
-<img align="right" src="images/Experimental01-MERRA-2.jpeg" width="30%">
+<img align="right" src="/book/images/Experimental01-MERRA-2.jpeg" width="30%">
+<!---<img align="right" src="images/Experimental01-MERRA-2.jpeg" width="30%">--->
 Participants run their algorithms on a common dataset and adhere to a common format.<br><br>
 <b>Data set</b>: MERRA v2 Reanalysis<br>
 <b>Time period for study</b>: 1980 - June 2017<br>
