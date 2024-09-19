@@ -7,7 +7,7 @@
 # Book settings
 title                       : ARTMIP  # The title of the book
 author                      : Christine Shields  # The author of the book
-copyright                   : "2024"  # Copyright year to be placed in the footer
+#  copyright                   : "2024"  # Copyright year to be placed in the footer
 logo                        : images/ARTMIP_logo.jpg  # A path to the book logo
 
 #######################################################################################
@@ -24,7 +24,7 @@ parse:
     # - colon_fence
     # - deflist
     # - dollarmath
-    # - html_admonition
+    - html_admonition
     - html_image
     #  - linkify
     # - replacements
@@ -33,6 +33,26 @@ parse:
     #  - tasklist
   #  myst_url_schemes: [mailto, http, https] # URI schemes that will be recognised as external URLs in Markdown links
   #  myst_dmath_double_inline: true  # Allow display math ($$) within an inline context
+
+#######################################################################################
+# HTML-specific settings
+html:
+  #  favicon                   : ""  # A path to a favicon image
+  use_edit_page_button      : false  # Whether to add an "edit this page" button to pages. If `true`, repository information in repository: must be filled in
+  use_repository_button     : true  # Whether to add a link to your repository button
+  use_issues_button         : true  # Whether to add an "open an issue" button
+  use_multitoc_numbering    : true   # Continuous numbering across parts/chapters
+  #  extra_footer              : ""  # Will be displayed underneath the footer.
+  #  google_analytics_id       : ""  # A GA id that can be used to track book views.
+  home_page_in_navbar       : true  # Whether to include your home page in the left Navigation Bar
+  baseurl                   : https://github.com/brmy4086/ARTMIP  # The base URL where your book will be hosted. Used for creating image previews and social links. e.g.: https://mypage.com/mybook/
+  analytics:
+    plausible_analytics_url: https://plausible.io/js/script.js
+
+  comments:
+    hypothesis              : false
+    utterances              : false
+  #  announcement              : "" # A banner announcement at the top of the site.
 
 #######################################################################################
 # Define the name of the latex output file for PDF builds
