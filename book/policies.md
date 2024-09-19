@@ -2,7 +2,7 @@
 Data Access and Policy for Catalogues, Citations, and Authorship
 
 ## Catalogue Data Access
-<ol>
+<ol type="1">
   <li>Full access is available for all ARTMIP participants and collaborators of ARTMIP participants.</li>
   <li>Public access will be granted after publication of overview papers.</li>
   <li><a href="https://www.earthsystemgrid.org/dataset/ucar.cgd.artmip.html">Tier 1 catalogues for MERRA2 datasets</a></li>
@@ -12,12 +12,12 @@ Data Access and Policy for Catalogues, Citations, and Authorship
 </ol>
   
 ## Citations
-<ol>
+<ol type="1">
   <li>All papers using ARTMIP data or analysis should cite the GMD paper and Tier 1 overview paper (once published).</li>
   <li>All papers using ARTMIP catalogues should cite the DOI number for catalogues. One DOI number for all Tier 1 catalogues will be created and provided. One DOI number for Tier 2 catalogues will be created per subtopic, i.e. C20C+ catalogues will have one DOI number and will be different from the CMIP5 catalogues DOI number, etc.</li>
   <li>Data will be published on the Climate Data Gateway.</li>
   <li>Additional catalogues generated during the project after data has been published will be included by updating the CDG holding. The DOI number will not change once it is created.</li>
-  <ol>
+  <ol type="i">
     <li><b>GMD citation:</b><br>Shields, C. A., Rutz, J. J., Leung, L.-Y., Ralph, F. M., Wehner, M., Kawzenuk, B., Lora, J. M., McClenny, E., Osborne, T., Payne, A. E., Ullrich, P., Gershunov, A., Goldenson, N., Guan, B., Qian, Y., Ramos, A. M., Sarangi, C., Sellars, S., Gorodetskaya, I., Kashinath, K., Kurlin, V., Mahoney, K., Muszynski, G., Pierce, R., Subramanian, A. C., Tome, R., Waliser, D., Walton, D., Wick, G., Wilson, A., Lavers, D., Prabhat, Collow, A., Krishnan, H., Magnusdottir, G., and Nguyen, P.: Atmospheric River Tracking Method Intercomparison Project (ARTMIP): project goals and experimental design, Geosci. Model Dev., 11, 2455-2474, <a href="https://doi.org/10.5194/gmd-11-2455-2018">https://doi.org/10.5194/gmd-11-2455-2018</a>, 2018</li>
     <li><b>ARTMIP Tier 1 Source MERRA-2 Data DOI citation:</b><br><a href="https://doi.org/10.5065/D62R3QFS">https://doi.org/10.5065/D62R3QFS</a></li>
     <li><b>ARTMIP Tier 1 catalogue DOI citation:</b><br><a href="https://doi.org/10.5065/D62R3QFS">https://doi.org/10.5065/D62R3QFS</a></li>
@@ -34,7 +34,7 @@ Data Access and Policy for Catalogues, Citations, and Authorship
 </ol>
   
 ## Authorship
-<ol>
+<ol type="1">
   <li>Authors are free to choose their co-authors and collaborators, however the ARTMIP project must be acknowledged.</li>
   <li>Below is suggested text for a typical “Acknowledgments” section:<br><br>ARTMIP is a grass-roots community effort and includes a collection of international researchers from universities, laboratories, and agencies. Co-chairs and committee members include Jonathan Rutz, Christine Shields, L. Ruby Leung, F. Martin Ralph, and Michael Wehner, Ashley Payne, and Travis O'Brien. Details on catalogues developers can be found on the <a href="https://www.cgd.ucar.edu/projects/artmip">ARTMIP website</a>. ARTMIP has received support from the US Department of Energy Office of Science Biological and Environmental Research (BER) as part of the Regional and Global Climate Modeling program, and the Center for Western Weather and Water Extremes (CW3E) at Scripps Institute for Oceanography at the University of California, San Diego.</li>
 </ol>
