@@ -72,60 +72,60 @@ View the [ARTMIP data access, citation, and authorship policy](https://www.cgd.u
 
 ---
 ## Publications with detection algorithm details
-Brands, S., J.M. Gutiérrez and D. San Martín, 2017: Twentieth-century atmospheric river activity along the west coasts of Europe and North America: algorithm formulation, reanalysis uncertainty and links to atmospheric circulation patterns. Clim. Dyn., 48(9-10), 2771-2795, doi:10.1007/s00382-016-3095-6
+Brands, S., J.M. Gutiérrez and D. San Martín, 2017: Twentieth-century atmospheric river activity along the west coasts of Europe and North America: algorithm formulation, reanalysis uncertainty and links to atmospheric circulation patterns. Clim. Dyn., 48(9-10), 2771-2795, [doi:10.1007/s00382-016-3095-6](https://doi.org/10.1007/s00382-016-3095-6)
 
-Gao, Y., J. Lu, L. R. Leung, Q. Yang, S. Hagos, and Y. Qian, 2015: Dynamical and thermodynamical modulations of future changes in landfalling atmospheric rivers over western North America. Geophys. Res. Lett., 42, 7179-7186, doi:10.1002/2015GL065435.
+Gao, Y., J. Lu, L. R. Leung, Q. Yang, S. Hagos, and Y. Qian, 2015: Dynamical and thermodynamical modulations of future changes in landfalling atmospheric rivers over western North America. Geophys. Res. Lett., 42, 7179-7186, [doi:10.1002/2015GL065435](https://doi.org/10.1002/2015GL065435).
 
-Gao, Y., J. Lu, and L.R. Leung, 2016: Uncertainties in projecting future changes in atmospheric rivers and their impacts on heavy precipitation over Europe. J. Clim., 29, 6711-6726, doi: 10.1175/JCLI-D-16-0088.1.
+Gao, Y., J. Lu, and L.R. Leung, 2016: Uncertainties in projecting future changes in atmospheric rivers and their impacts on heavy precipitation over Europe. J. Clim., 29, 6711-6726, [doi: 10.1175/JCLI-D-16-0088.1](https://doi.org/10.1175/JCLI-D-16-0088.1).
 
-Leung, L. R., and Y. Qian, 2009: Atmospheric rivers induced heavy precipitation and flooding in the western U.S. simulated by the WRF regional climate model, Geophys. Res. Lett., 36, L03820, doi:10.1029/2008GL036445.
+Leung, L. R., and Y. Qian, 2009: Atmospheric rivers induced heavy precipitation and flooding in the western U.S. simulated by the WRF regional climate model, Geophys. Res. Lett., 36, L03820, [doi:10.1029/2008GL036445](https://doi.org/10.1029/2008GL036445).
 
-Gershunov, A., T. Shulgina, F. M. Ralph, D. A. Lavers, and J. J. Rutz, 2017: Assessing the climate-scale variability of atmospheric rivers affecting western North America, Geophys. Res. Lett., 44, 7900–7908, doi:10.1002/2017GL074175.
+Gershunov, A., T. Shulgina, F. M. Ralph, D. A. Lavers, and J. J. Rutz, 2017: Assessing the climate-scale variability of atmospheric rivers affecting western North America, Geophys. Res. Lett., 44, 7900–7908, [doi:10.1002/2017GL074175](https://doi.org/10.1002/2017GL074175).
 
-Goldenson, N., Leung, L.R., Bitz, C.M., Blanchard-Wrigglesworth, E.: Influence of Atmospheric River Events on Mountain Snowpack of the Western U.S., JCLI, doi:10.1175/JCLI-D-18-0268.1.
+Goldenson, N., Leung, L.R., Bitz, C.M., Blanchard-Wrigglesworth, E.: Influence of Atmospheric River Events on Mountain Snowpack of the Western U.S., JCLI, [doi:10.1175/JCLI-D-18-0268.1](https://doi.org/10.1175/JCLI-D-18-0268.1).
 
-Gorodetskaya, I. V., M. Tsukernik, K. Claes, M. F. Ralph, W. D. Neff, and N. P. M. Van Lipzig, 2014: The role of atmospheric rivers in anomalous snow accumulation in East Antarctica, Geophys. Res. Lett., 41, 6199–6206, doi:10.1002/2014GL060881.
+Gorodetskaya, I. V., M. Tsukernik, K. Claes, M. F. Ralph, W. D. Neff, and N. P. M. Van Lipzig, 2014: The role of atmospheric rivers in anomalous snow accumulation in East Antarctica, Geophys. Res. Lett., 41, 6199–6206, [doi:10.1002/2014GL060881](https://doi.org/10.1002/2014GL060881).
 
-Guan, B., and D. E. Waliser, 2015: Detection of atmospheric rivers: evaluation and application of an algorithm for global studies. J. Geophys. Res. Atmos., 120, 12, 514–535, doi: 10.1002/2015JD024257.
+Guan, B., and D. E. Waliser, 2015: Detection of atmospheric rivers: evaluation and application of an algorithm for global studies. J. Geophys. Res. Atmos., 120, 12, 514–535, [doi: 10.1002/2015JD024257](https://doi.org/10.1002/2015JD024257).
 
-Lavers, D. A., G. Villarini, R. P. Allan, E. F. Wood, and A. J. Wade, 2012: The detection of atmospheric rivers in atmospheric reanalyses and their links to British winter floods and the large-scale climatic circulation, J. Geophys. Res., 117, D20106, doi:10.1029/2012JD018027.
+Lavers, D. A., G. Villarini, R. P. Allan, E. F. Wood, and A. J. Wade, 2012: The detection of atmospheric rivers in atmospheric reanalyses and their links to British winter floods and the large-scale climatic circulation, J. Geophys. Res., 117, D20106, [doi:10.1029/2012JD018027](https://doi.org/10.1029/2012JD018027).
 
-Lora, J. M., J. L. Mitchell, C. Risi, and A. E. Tripati, 2017: North Pacific atmospheric rivers and their influence on western North America at the Last Glacial Maximum, Geophys. Res. Lett., 44, doi:10.1002/2016GL071541.
+Lora, J. M., J. L. Mitchell, C. Risi, and A. E. Tripati, 2017: North Pacific atmospheric rivers and their influence on western North America at the Last Glacial Maximum, Geophys. Res. Lett., 44, [doi:10.1002/2016GL071541](https://doi.org/10.1002/2016GL071541).
 
-Mahoney, K., D.L. Jackson, P. Neiman, M. Hughes, L. Darby, G. Wick, A. White, E. Sukovich, and R. Cifelli, 2016: Understanding the Role of Atmospheric Rivers in Heavy Precipitation in the Southeast United States. Mon. Wea. Rev., 144, 1617–1632, doi: 10.1175/MWR-D-15-0279.1.
+Mahoney, K., D.L. Jackson, P. Neiman, M. Hughes, L. Darby, G. Wick, A. White, E. Sukovich, and R. Cifelli, 2016: Understanding the Role of Atmospheric Rivers in Heavy Precipitation in the Southeast United States. Mon. Wea. Rev., 144, 1617–1632, [doi: 10.1175/MWR-D-15-0279.1](https://doi.org/10.1175/MWR-D-15-0279.1).
 
-McClenny, E. E., Ullrich, P. A., & Grotjahn, R. (2020). Sensitivity of atmospheric river vapor transport and precipitation to uniform sea surface temperature increases. Journal of Geophysical Research: Atmospheres , 125, e2020JD033421. https://doi.org/10.1029/2020JD033421
+McClenny, E. E., Ullrich, P. A., & Grotjahn, R. (2020). Sensitivity of atmospheric river vapor transport and precipitation to uniform sea surface temperature increases. Journal of Geophysical Research: Atmospheres , 125, e2020JD033421. <https://doi.org/10.1029/2020JD033421>
 
-Mundhenk, B. D., E. A. Barnes, and E. D. Maloney (2016), All-season climatology and variability of atmospheric river frequencies over the North Pacific, J. Climate, 29, 4885 4903, doi:10.1175/JCLI-D-15-0655.1.
+Mundhenk, B. D., E. A. Barnes, and E. D. Maloney (2016), All-season climatology and variability of atmospheric river frequencies over the North Pacific, J. Climate, 29, 4885 4903, [doi:10.1175/JCLI-D-15-0655.1](https://doi.org/10.1175/JCLI-D-15-0655.1).
 
-Muszynski, G., Kashinath, K., Kurlin, V., & Wehner, M. (2019). Topological data analysis and machine learning for recognizing atmospheric river patterns in large climate datasets. Geoscientific Model Development, 12(2), 613–628, doi.org/10.5194/gmd-12-613-2019
+Muszynski, G., Kashinath, K., Kurlin, V., & Wehner, M. (2019). Topological data analysis and machine learning for recognizing atmospheric river patterns in large climate datasets. Geoscientific Model Development, 12(2), 613–628, <https://doi.org/10.5194/gmd-12-613-2019>
 
-O’Brien, T. A., Risser, M. D., Loring, B., Elbashandy, A. A., Krishnan, H., Johnson, J., Patricola, C. M., O’Brien, J. P., Mahesh, A., Arriaga Ramirez, S., Rhoades, A. M., Charn, A., Inda Díaz, H., & Collins, W. D. (2020). Detection of atmospheric rivers with inline uncertainty quantification: TECA-BARD v1.0.1. Geoscientific Model Development , 13(12), 6131–6148. https://doi.org/10.5194/gmd-13-6131-2020
+O’Brien, T. A., Risser, M. D., Loring, B., Elbashandy, A. A., Krishnan, H., Johnson, J., Patricola, C. M., O’Brien, J. P., Mahesh, A., Arriaga Ramirez, S., Rhoades, A. M., Charn, A., Inda Díaz, H., & Collins, W. D. (2020). Detection of atmospheric rivers with inline uncertainty quantification: TECA-BARD v1.0.1. Geoscientific Model Development , 13(12), 6131–6148. <https://doi.org/10.5194/gmd-13-6131-2020>
 
-Pan, M. and Lu, M. (2019), A Novel Atmospheric River Identification Algorithm, Water Resources Research, 2019, 55: 6069-6087, https://doi.org/10.1029/2018WR024407
+Pan, M. and Lu, M. (2019), A Novel Atmospheric River Identification Algorithm, Water Resources Research, 2019, 55: 6069-6087, <https://doi.org/10.1029/2018WR024407>
 
-Pan, M. and Lu, M. (2020),“East Asia Atmospheric River Catalog: Annual Cycle, Transition Mechanism and Precipitation”, Geophysical Research Letters, 47, e2020GL089477. https://doi.org/10.1029/2020GL089477
+Pan, M. and Lu, M. (2020),“East Asia Atmospheric River Catalog: Annual Cycle, Transition Mechanism and Precipitation”, Geophysical Research Letters, 47, e2020GL089477. <https://doi.org/10.1029/2020GL089477>
 
-Payne, A. E., and G. Magnusdottir, 2015: An evaluation of atmospheric rivers over the North Pacific in CMIP5 and their response to warming under RCP 8.5, J. Geophys. Res. Atmos., 120, 11,173–11,190, doi:10.1002/2015JD023586.
+Payne, A. E., and G. Magnusdottir, 2015: An evaluation of atmospheric rivers over the North Pacific in CMIP5 and their response to warming under RCP 8.5, J. Geophys. Res. Atmos., 120, 11,173–11,190, [doi:10.1002/2015JD023586](https://doi.org/10.1002/2015JD023586).
 
-Payne, A. E., and G. Magnusdottir, 2016: Persistent landfalling atmospheric rivers over the west coast of North America, J. Geophys. Res. Atmos., 121, 13,287–13,300, doi:10.1002/2016JD025549.
+Payne, A. E., and G. Magnusdottir, 2016: Persistent landfalling atmospheric rivers over the west coast of North America, J. Geophys. Res. Atmos., 121, 13,287–13,300, [doi:10.1002/2016JD025549](https://doi.org/10.1002/2016JD025549).
 
-Ramos, A. M., Nieto, R., Tomé, R., Gimeno, L., Trigo, R. M., Liberato, M. L. R., and Lavers, D. A.: 2016, Atmospheric rivers moisture sources from a Lagrangian perspective, Earth Syst. Dynam., 7, 371-384, doi:10.5194/esd-7-371-2016.
+Ramos, A. M., Nieto, R., Tomé, R., Gimeno, L., Trigo, R. M., Liberato, M. L. R., and Lavers, D. A.: 2016, Atmospheric rivers moisture sources from a Lagrangian perspective, Earth Syst. Dynam., 7, 371-384, [doi:10.5194/esd-7-371-2016](https://doi.org/10.5194/esd-7-371-2016).
 
-Rhoades, A., Jones, A., O'Brien,T.A., O'Brien, J.P., Ullrich, P.A., Zarzycki, C. M.: 2020, Influences of North Pacific Ocean domain extent on the western US winter hydroclimatology in variable-resolution CESM JGR-A. https://doi.org/10.1029/2019JD031977.
+Rhoades, A., Jones, A., O'Brien,T.A., O'Brien, J.P., Ullrich, P.A., Zarzycki, C. M.: 2020, Influences of North Pacific Ocean domain extent on the western US winter hydroclimatology in variable-resolution CESM JGR-A. <https://doi.org/10.1029/2019JD031977>.
 
-Rutz, J. J., W. J. Steenburgh, and F. M. Ralph, 2014: Climatological characteristics of atmospheric rivers and their inland penetration over the western United States. Mon. Wea. Rev., 142, 905–920, doi:10.1175/MWR-D-13-00168.1.
+Rutz, J. J., W. J. Steenburgh, and F. M. Ralph, 2014: Climatological characteristics of atmospheric rivers and their inland penetration over the western United States. Mon. Wea. Rev., 142, 905–920, [doi:10.1175/MWR-D-13-00168.1](https://doi.org/10.1175/MWR-D-13-00168.1).
 
-Sellars, S., P. Nguyen, W. Chu, X. Gao, K. Hsu and S. Sorooshian, 2013: Computational Earth Science: Big Data Transformed into Insight, Eos Trans. AGU, 94(32), 277, 10.1002/2013EO320001.
+Sellars, S., P. Nguyen, W. Chu, X. Gao, K. Hsu and S. Sorooshian, 2013: Computational Earth Science: Big Data Transformed into Insight, Eos Trans. AGU, 94(32), 277, [10.1002/2013EO320001](https://doi.org/10.1002/2013EO320001).
 
-Sellars, S.L., X. Gao, and S. Sorooshian, 2015: An Object-Oriented Approach to Investigate Impacts of Climate Oscillations on Precipitation: A Western United States Case Study. J. Hydrometeor., 16, 830–842, doi:10.1175/JHM-D-14-0101.1.
+Sellars, S.L., X. Gao, and S. Sorooshian, 2015: An Object-Oriented Approach to Investigate Impacts of Climate Oscillations on Precipitation: A Western United States Case Study. J. Hydrometeor., 16, 830–842, [doi:10.1175/JHM-D-14-0101.1](https://doi.org/10.1175/JHM-D-14-0101.1).
 
-Shields, C. A., and J. T. Kiehl , 2016: Atmospheric river landfall-latitude changes in future climate simulations, Geophys. Res. Lett., 43, 8775–8782, doi:10.1002/2016GL070470.
+Shields, C. A., and J. T. Kiehl , 2016: Atmospheric river landfall-latitude changes in future climate simulations, Geophys. Res. Lett., 43, 8775–8782, [doi:10.1002/2016GL070470](https://doi.org/10.1002/2016GL070470).
 
-Shearer, E. J., Nguyen, P., Sellars, S. L., Analui, B., Kawzenuk, B., Hsu, K., et al. (2020). Examination of global midlatitude atmospheric river lifecycles using an object‐oriented methodology. Journal of Geophysical Research: Atmospheres, 125, e2020JD033425. https://doi.org/10.1029/2020JD033425
+Shearer, E. J., Nguyen, P., Sellars, S. L., Analui, B., Kawzenuk, B., Hsu, K., et al. (2020). Examination of global midlatitude atmospheric river lifecycles using an object‐oriented methodology. Journal of Geophysical Research: Atmospheres, 125, e2020JD033425. <https://doi.org/10.1029/2020JD033425>
 
-Shields, C. A., and J. T. Kiehl, 2016: Simulating the Pineapple Express in the half degree Community Climate System Model, CCSM4, Geophys. Res. Lett., 43, 7767–7773, doi:10.1002/2016GL069476.
+Shields, C. A., and J. T. Kiehl, 2016: Simulating the Pineapple Express in the half degree Community Climate System Model, CCSM4, Geophys. Res. Lett., 43, 7767–7773, [doi:10.1002/2016GL069476](https://doi.org/10.1002/2016GL069476).
 
 Viale, M., R. Valenzuela, R.D. Garreaud, and F.M. Ralph, 2018: Impacts of Atmospheric Rivers on Precipitation in Southern South America. Journal of Hydrometerology,(In review).
 
-Wick, G.A., P. J. Neiman and F. M. Ralph, 2013: Description and Validation of an Automated Objective Technique for Identification and Characterization of the Integrated Water Vapor Signature of Atmospheric Rivers, IEEE Transactions on Geoscience and Remote Sensing, vol. 51, no. 4, pp. 2166-2176, doi: 10.1109/TGRS.2012.2211024
+Wick, G.A., P. J. Neiman and F. M. Ralph, 2013: Description and Validation of an Automated Objective Technique for Identification and Characterization of the Integrated Water Vapor Signature of Atmospheric Rivers, IEEE Transactions on Geoscience and Remote Sensing, vol. 51, no. 4, pp. 2166-2176, [doi: 10.1109/TGRS.2012.2211024](https://doi.org/10.1109/TGRS.2012.2211024)
