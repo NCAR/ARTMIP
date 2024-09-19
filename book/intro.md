@@ -47,7 +47,7 @@ Scientific focus on ARs has grown exponentially over the last decade, and conseq
 
 <p align="right">
   <!---![Algorithm Grid](images/AlgorithmGrid.v2.jpg)--->
-  <img src="images/AlgorithmGrid.v2.jpg">
+  <img src="https://github.com/brmy4086/ARTMIP/blob/87f22911c309981f7a1db8ae8af3469428e0a46d/book/images/AlgorithmGrid.v2.jpg">
   Algorithm Grid, by Christine Shields
 </p>
 
