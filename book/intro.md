@@ -32,8 +32,8 @@ Atmospheric rivers (ARs) are dynamically driven, filamentary structures that acc
 | :---: | :---: |
 |  ![A satellite image of an Atmospheric River impacting the UK](images/ARTMIP_2014Jan24.UK_.flooding.jpg)  |  ![A satellite image of an Atmospheric River impacting Northern California](images/ARTMIP_2017Feb10.OrovilleDamCrisis-cropped.jpg)  |
 
-<p align="center"><kbd><br>
-  <a href=https://tropic.ssec.wisc.edu/real-time/mimic-tpw/global/main.html> <b>VIEW SATELLITE IMAGERY SOURCE</b> </a><br><br>
+<p align="center"><kbd>
+  <a href=https://tropic.ssec.wisc.edu/real-time/mimic-tpw/global/main.html> <b>VIEW SATELLITE IMAGERY SOURCE</b> </a>
   </kbd></p>
 
 ## What is the purpose of ARTMIP?
