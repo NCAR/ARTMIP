@@ -2,7 +2,9 @@
 # Learn more at https://jupyterbook.org/customize/toc.html
 
 format: jb-book
-root: intro
+root:
+- file: intro
+  title: What is ARTMIP?
 chapters:
 - file: program-goals
   title: Program Goals
