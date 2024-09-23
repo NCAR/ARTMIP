@@ -3,7 +3,12 @@ ARTMIP provides the framework necessary to compare each of these different algor
 
 ## Tier 1
 
-<img align="right" src="https://github.com/brmy4086/ARTMIP/blob/63b2bd6590e6c8eb2e6ab928b63084ea3b6d2784/book/images/Experimental01-MERRA-2.jpeg" width="30%">
+<!---<img align="right" src="https://github.com/brmy4086/ARTMIP/blob/63b2bd6590e6c8eb2e6ab928b63084ea3b6d2784/book/images/Experimental01-MERRA-2.jpeg" width="30%">--->
+:::{figure-md}
+![MERRA2](images/Experimental01-MERRA-2.jpeg){width="30%" align="right"}
+
+MERRA-2 is interesting. **test**
+:::
 
 <!---<img align="right" src="images/Experimental01-MERRA-2.jpeg" width="30%">--->
 Participants run their algorithms on a common dataset and adhere to a common format.<br><br>
