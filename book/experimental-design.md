@@ -7,9 +7,8 @@ ARTMIP provides the framework necessary to compare each of these different algor
 :::{figure-md}
 :width: 30%
 :align: right
-![MERRA2](images/Experimental01-MERRA-2.jpeg){ align=right width=250px }
+![MERRA2](images/Experimental01-MERRA-2.jpeg)
 
-MERRA-2 is interesting. **test**
 :::
 
 <!---<img align="right" src="images/Experimental01-MERRA-2.jpeg" width="30%">--->
@@ -21,10 +20,18 @@ Participants run their algorithms on a common dataset and adhere to a common for
 ## Tier 2
 Similar design as Tier 1, except participants may opt to run algorithms for cross-reanalysis sensitivity studies, or climate change studies. Datasets include high resolution climate change model output (i.e. CAM5 0.25°) and/or other re-analysis products such as CFSR, ERA-I, JRA.<br><br>
 Tier 1 and Tier 2 (where applicable) will include comparisons to precipitation datasets such as TRMM, PERSIANN, GPCP, Livenh, or E-OBS.<br>
-<p align="right" width="31%">
+
+:::{figure-md}
+:width: 30%
+:align: right
+![](images/Experimental02-AR-CAM5.jpeg)
+
+Simulated AR using 0.25° CAM5 with RCP8.5 <br>forcing. Plot showing integrated water vapor.
+:::
+<!---This way didn't work <p align="right" width="31%">
   <img src="images/Experimental02-AR-CAM5.jpeg" width="30%"><br>
-  Simulated AR using 0.25° CAM5 with RCP8.5 <br>forcing. Plot showing integrated water vapor.
-</p>
+  
+</p>--->
 
 ## Tier Leads
 Christine Shields, NSF NCAR: Experimental Design and Logistics Lead
