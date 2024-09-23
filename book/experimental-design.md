@@ -5,7 +5,7 @@ ARTMIP provides the framework necessary to compare each of these different algor
 
 <!---<img align="right" src="https://github.com/brmy4086/ARTMIP/blob/63b2bd6590e6c8eb2e6ab928b63084ea3b6d2784/book/images/Experimental01-MERRA-2.jpeg" width="30%">--->
 :::{figure-md}
-![MERRA2](images/Experimental01-MERRA-2.jpeg){ align=right width=30% }
+![MERRA2](images/Experimental01-MERRA-2.jpeg){ align=right width=250px }
 
 MERRA-2 is interesting. **test**
 :::
