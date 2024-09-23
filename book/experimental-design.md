@@ -5,10 +5,11 @@ ARTMIP provides the framework necessary to compare each of these different algor
 
 <!---<img align="right" src="https://github.com/brmy4086/ARTMIP/blob/63b2bd6590e6c8eb2e6ab928b63084ea3b6d2784/book/images/Experimental01-MERRA-2.jpeg" width="30%">--->
 :::{figure-md} MERRA2
-:width: 30%
+:width: 40%
 :align: right
 ![MERRA2](images/Experimental01-MERRA-2.jpeg)
 
+Modern-Era Retrospective analysis for Research and Applications, Version 2
 :::
 
 <!---<img align="right" src="images/Experimental01-MERRA-2.jpeg" width="30%">--->
@@ -20,7 +21,7 @@ Participants run their algorithms on a common dataset and adhere to a common for
 ## Tier 2
 
 :::{figure-md} AR-CAM5
-:width: 30%
+:width: 40%
 :align: right
 ![](images/Experimental02-AR-CAM5.jpeg)
 
