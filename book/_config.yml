@@ -9,6 +9,7 @@ title                       : ARTMIP  # The title of the book
 author                      : Christine Shields  # The author of the book
 #  copyright                   : "2024"  # Copyright year to be placed in the footer
 logo                        : images/ARTMIP_logo.jpg  # A path to the book logo
+html_baseurl = "https://github.com/brmy4086/ARTMIP"
 
 #######################################################################################
 # Whether to reexecute notebooks on each build.
@@ -21,7 +22,7 @@ execute:
 parse:
   myst_enable_extensions:  # default extensions to enable in the myst parser. See https://myst-parser.readthedocs.io/en/latest/using/syntax-optional.html
     # - amsmath
-    # - colon_fence
+    - colon_fence
     # - deflist
     # - dollarmath
     - html_admonition
@@ -31,17 +32,19 @@ parse:
     # - smartquotes
     #  - substitution
     #  - tasklist
-    - colon_fence
   #  myst_url_schemes: [mailto, http, https] # URI schemes that will be recognised as external URLs in Markdown links
   #  myst_dmath_double_inline: true  # Allow display math ($$) within an inline context
 
 #######################################################################################
 # HTML-specific settings
 html:
-  #  favicon                   : ""  # A path to a favicon image
+  # Add GitHub buttons to your book
+  # See https://jupyterbook.org/customize/config.html#add-a-link-to-your-repository
   use_edit_page_button      : false  # Whether to add an "edit this page" button to pages. If `true`, repository information in repository: must be filled in
   use_repository_button     : true  # Whether to add a link to your repository button
   use_issues_button         : true  # Whether to add an "open an issue" button
+  
+  #  favicon                   : ""  # A path to a favicon image
   use_multitoc_numbering    : true   # Continuous numbering across parts/chapters
   #  extra_footer              : ""  # Will be displayed underneath the footer.
   #  google_analytics_id       : ""  # A GA id that can be used to track book views.
@@ -72,10 +75,3 @@ repository:
   url: https://github.com/brmy4086/ARTMIP  # Online location of your book
   path_to_book: book  # Optional path to your book, relative to the repository root
   branch: main  # Which branch of the repository should be used when creating links (optional)
-
-#######################################################################################
-# Add GitHub buttons to your book
-# See https://jupyterbook.org/customize/config.html#add-a-link-to-your-repository
-html:
-  use_issues_button: true
-  use_repository_button: true
