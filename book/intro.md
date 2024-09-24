@@ -45,11 +45,20 @@ The figure above shows (left and center) the fraction of cool-season precipitati
 
 Scientific focus on ARs has grown exponentially over the last decade, and consequently there are many methods to track them. Quantifying the uncertainties associated with AR tracking methods, and understanding the implications of their differences is the motivation for ARTMIP. The below chart summarizes the many different algorithmic approaches found in current literature by broadly categorizing the variety of parameters used for identification and tracking, and then listing different types of choices available per category.
 
-<p align="right">
+<!---<p align="right">--->
   <!---![Algorithm Grid](images/AlgorithmGrid.v2.jpg)--->
-  <img src="https://github.com/brmy4086/ARTMIP/blob/87f22911c309981f7a1db8ae8af3469428e0a46d/book/images/AlgorithmGrid.v2.jpg">
+<!---  <img src="https://github.com/brmy4086/ARTMIP/blob/87f22911c309981f7a1db8ae8af3469428e0a46d/book/images/AlgorithmGrid.v2.jpg">
   Algorithm Grid, by Christine Shields
-</p>
+</p>--->
+numbering: false
+
+:::{figure-md} AlgoGrid
+:width: 40%
+:align: right
+![Algorithm Grid](images/AlgorithmGrid.v2.jpg)
+
+Algorithm Grid, by Christine Shields
+:::
 
 ## Committee Members
 * **Christine Shields**, Co-chair
