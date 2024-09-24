@@ -24,8 +24,8 @@ parse:
     - colon_fence  # https://myst-parser.readthedocs.io/en/latest/syntax/optional.html#markdown-figures
     # - deflist
     # - dollarmath
-    # - html_admonition
-    #  - html_image
+    - html_admonition
+    - html_image
     #  - linkify
     # - replacements
     # - smartquotes
