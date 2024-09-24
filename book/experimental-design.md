@@ -12,7 +12,7 @@ ARTMIP provides the framework necessary to compare each of these different algor
 Modern-Era Retrospective analysis for Research and Applications, Version 2
 :::
 
-<img align="right" src="images/Experimental01-MERRA-2.jpeg" width="30%">
+<!---<img align="right" src="images/Experimental01-MERRA-2.jpeg" width="30%">--->
 Participants run their algorithms on a common dataset and adhere to a common format.<br><br>
 <b>Data set</b>: MERRA v2 Reanalysis<br>
 <b>Time period for study</b>: 1980 - June 2017<br>
