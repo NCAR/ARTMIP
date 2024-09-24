@@ -25,6 +25,7 @@ Participants run their algorithms on a common dataset and adhere to a common for
 ## Tier 2
 
 :::{figure-md} AR-CAM5
+:enumerated: false
 :width: 40%
 :align: right
 ![](images/Experimental02-AR-CAM5.jpeg)
