@@ -25,11 +25,9 @@ Participants run their algorithms on a common dataset and adhere to a common for
 ## Tier 2
 
 :::{figure-md} AR-CAM5
----
 :numbered: false
 :width: 40%
 :align: right
----
 ![](images/Experimental02-AR-CAM5.jpeg)
 
 Simulated AR using 0.25° CAM5 with RCP8.5 <br>forcing. Plot showing integrated water vapor.
