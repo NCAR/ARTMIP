@@ -7,7 +7,7 @@ Organizing Committe Sponsers are listed below
 | ![DOE](images/logo-doe.png)       | ![CW3E](images/logo-cw3e.png)         | ![Berkeley Lab](images/logo-lbnl.png) |
 | ![PNNL](images/logo-pnnl.png)     | ![SCRIPPS UCSD](images/logo-ucsd.png) | ![NSF](images/logo-nsf.jpg)           |
 
-
+<!--- Doesn't work atm
 .. subfigure:: ABC|DEF|HIJ
    :layout-sm: A|B|C|D|E|F|H|I|J
    :gap: 8px
@@ -32,3 +32,4 @@ Organizing Committe Sponsers are listed below
 
    .. image:: ![NSF](images/logo-nsf.jpg)
    
+--->
