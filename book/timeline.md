@@ -1,5 +1,5 @@
 # Timeline
-Completed targets are in bold, if you want to contribute a catalogue, please contact Christine.
+Completed targets are indicated with a checkmark, if you want to contribute a catalogue, please contact Christine.
 
 | Completed/<br>In-Progress | Target Date | Activity |
 | --- | ------------- | ------------- |
