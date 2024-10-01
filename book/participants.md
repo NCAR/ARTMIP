@@ -13,6 +13,29 @@ For participants, please refer to our overview papers:
 **Tier 2, Reanalysis**: Collow, A.B., Shields, C.A., Guan, B., Kim, S., Lora, J.M., McClenny, E.E., Nardi, K., Payne, A., Reid, K., Shearer, E. J. , Tome, R., Wille, J.D., Ramos, A.M., Gorodetskaya, I.V., Leung, L.R., O’Brien, T.A., Ralph, F.M., Rutz, J. Ullirich, P.A., Wehner, M.: An Overview of ARTMIP’s Tier 2 Reanalysis Intercomparison: Uncertainty in the Detection of Atmospheric Rivers and their Associated Precipitation, Journal of Geophysical Research, Atmospheres, [https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021JD036155](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021JD036155), 2022.
 
 ---
+:::{list-table} Group Photos
+:widths: 30 30 30
+
+*   - :::{figure-md}
+      :align: center
+      ![ARTMIP 3<sup>rd</sup> Workshop - October 2019](images/ARTMIP17Oct2019_0.jpg)
+      
+      ARTMIP 3<sup>rd</sup> Workshop - October 2019
+      :::
+    - :::{figure-md}
+      :align: center
+      ![ARTMIP 2<sup>nd</sup> Workshop - April 2018](images/ARTMIP_Workshop_April_2018.jpeg)
+      
+      ARTMIP 2<sup>nd</sup> Workshop - April 2018
+      :::
+    - :::{figure-md}
+      :align: center
+      ![ARTMIP 1<sup>st</sup> Workshop - May 2017](images/ARTMIP_Workshop_May_2017.jpeg)
+ 
+      ARTMIP 1<sup>st</sup> Workshop - May 2017
+      :::
+:::
+<!---
 |  |  |  |
 | --- | --- | --- |
 | <p><img src=images/ARTMIP17Oct2019_0.jpg><br>ARTMIP 3<sup>rd</sup> Workshop - October 2019</p> | <p><img src=images/ARTMIP_Workshop_April_2018.jpeg><br>ARTMIP 2<sup>nd</sup> Workshop - April 2018</p> | <p><img src=images/ARTMIP_Workshop_May_2017.jpeg><br>ARTMIP 1<sup>st</sup> Workshop - May 2017</p> |
