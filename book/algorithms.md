@@ -1,9 +1,14 @@
 # Algorithms
 Listed algorithms (A1, A2, etc.) have submitted catalogues for Tier 1. Algorithm numbering is determined by overall alphabetical order with the first set of numbers assigned to developers who participated in the 1-month proof of concept (A1 – A15), see [GMD paper](https://www.geosci-model-dev.net/11/2455/2018/gmd-11-2455-2018.pdf), followed by Tier 1-only participation (A16-39).
 
+:::{figure-md} AlgoGrid
+:width: 75%
+:align: center
 ![Algorithm Grid](images/AlgorithmGrid.v2.jpg)
 
 Algorithm Grid, by Christine Shields
+:::
+
 
 | Developer | Type | Geometry Req. | Threshold Req. | Temporal Req. | Region | DOI/Reference |
 | --------- | ---- | ------------- | -------------- | ------------- | ------ | ------------- |
@@ -57,7 +62,11 @@ Algorithm Grid, by Christine Shields
 
 <sup>g</sup>The Purdue indices consist of 81 indices for the land-falling West-Coast ARs and 81 indices for the inland Midwest ARs.
 
+:::{figure-md}
+:width: 75%
+:align: center
 ![](images/ARTMIP_ARDT_Oct2022.png)
 
 ARTMIP AR Detection Tool (ARDT) Occurrences for Tier1 participants using MERRA-2 reanalysis data (1980-2017). Metrics are computed at coastline locations for Western North American (upper panel) and Western Europe (lower panel) and plotted by latitude to illustrate AR frequency differences solely due to ARDT. Key is given to the right of each panel for available algorithms shown on this page. Units are given in percent of ARs that occur at the coastline during MERRA-2 sample period. 
 ARTMIP Tier1 catalogues, figure creation C.Shields [https://www.cgd.ucar.edu/projects/artmip/algorithms](https://www.cgd.ucar.edu/projects/artmip/algorithms) and [https://www.earthsystemgrid.org/dataset/ucar.cgd.artmip.html](https://www.earthsystemgrid.org/dataset/ucar.cgd.artmip.html)
+:::
