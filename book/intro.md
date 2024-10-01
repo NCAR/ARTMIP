@@ -39,9 +39,7 @@ Atmospheric rivers (ARs) are dynamically driven, filamentary structures that acc
 
 :::{list-table} <a href=https://tropic.ssec.wisc.edu/real-time/mimic-tpw/global/main.html> <b>VIEW SATELLITE IMAGERY SOURCE</b> </a>
 :widths: 50 50
----
-numbering: false
----
+:numbering: false
 
 *   - :::{figure-md}
       :align: center
