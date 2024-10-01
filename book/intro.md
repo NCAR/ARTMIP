@@ -32,20 +32,49 @@ Atmospheric rivers (ARs) are dynamically driven, filamentary structures that acc
 <br>
 --->
 
-|  ![A satellite image of an Atmospheric River impacting the UK](images/ARTMIP_2014Jan24.UK_.flooding.jpg)  |  ![A satellite image of an Atmospheric River impacting Northern California](images/ARTMIP_2017Feb10.OrovilleDamCrisis-cropped.jpg)  |
+<!---|  ![A satellite image of an Atmospheric River impacting the UK](images/ARTMIP_2014Jan24.UK_.flooding.jpg)  |  ![A satellite image of an Atmospheric River impacting Northern California](images/ARTMIP_2017Feb10.OrovilleDamCrisis-cropped.jpg)  |
 | :---: | :---: |
 | Atmospheric River event January 24 05 GMT. One event among many impacting the UK during the winter of 2013/2014. | Atmospheric River event February 10 00 GMT. The Oroville Dam Crisis, in northern California, occurred during this event in 2017. |
+--->
+
+:::{list-table}
+:widths: 50 50
+:header-rows: 1
+
+*   - :::{figure-md}
+      :align: center
+      ![A satellite image of an Atmospheric River impacting the UK](images/ARTMIP_2014Jan24.UK_.flooding.jpg)
+      
+      Atmospheric River event January 24 05 GMT. One event among many impacting the UK during the winter of 2013/2014.
+      :::
+    - :::{figure-md}
+      :align: center
+      ![A satellite image of an Atmospheric River impacting Northern California](images/ARTMIP_2017Feb10.OrovilleDamCrisis-cropped.jpg)
+      
+      Atmospheric River event February 10 00 GMT. The Oroville Dam Crisis, in northern California, occurred during this event in 2017.
+      :::
 
 <p align="center"><kbd>
   <a href=https://tropic.ssec.wisc.edu/real-time/mimic-tpw/global/main.html> <b>VIEW SATELLITE IMAGERY SOURCE</b> </a>
   </kbd></p>
+:::
+
+<!---
+<p align="center"><kbd>
+  <a href=https://tropic.ssec.wisc.edu/real-time/mimic-tpw/global/main.html> <b>VIEW SATELLITE IMAGERY SOURCE</b> </a>
+  </kbd></p>
+--->
 
 ## What is the purpose of ARTMIP?
 The goal of ARTMIP is to understand and quantify uncertainties in atmospheric river (AR) science based on choice of detection/tracking methodology. The climatological characteristics of ARs, such as AR frequency, duration, intensity, and seasonality, are all strongly dependent on the method used to identify ARs. It is, however, the precipitation attributable to ARs that is perhaps most strongly affected, and this has significant implications for our understanding of how ARs contribute to regional hydroclimate now and in the future.
 
+:::{figure-md}
+:width: 100%
+:align: center
 ![](images/Experimental03-Dettinger-Rutz-GuanWaliser.jpg)
 
 The figure above shows (left and center) the fraction of cool-season precipitation attributable to ARs from Dettinger et al. (2011), Rutz et al. (2014). (Right) as in (left and center), but for annual precipitation. These studies use different AR identification methods, as well as different atmospheric re-analyses and observed precipitation datasets.
+:::
 
 Scientific focus on ARs has grown exponentially over the last decade, and consequently there are many methods to track them. Quantifying the uncertainties associated with AR tracking methods, and understanding the implications of their differences is the motivation for ARTMIP. The below chart summarizes the many different algorithmic approaches found in current literature by broadly categorizing the variety of parameters used for identification and tracking, and then listing different types of choices available per category.
 
