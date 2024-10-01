@@ -95,23 +95,13 @@ Algorithm Grid, by Christine Shields
 For more information, please contact a committee member.
 
 ## ARTMIP Sponsors
-Organizing Committee Sponsors are listed below.
 
-<!---
-<p align="middle">
-  <img src="images/logo-ncar.png" width="20%" />
-  <img src="images/logo-noaa.png" width="20%" /> 
-  <img src="images/logo-nws.png" width="20%" /> 
-  <img src="images/logo-doe.png" width="20%" /> 
-  <img src="images/logo-cw3e.png" width="20%" /> 
-  <img src="images/logo-lbnl.png" width="20%" /> 
-  <img src="images/logo-pnnl.png" width="20%" /> 
-  <img src="images/logo-ucsd.png" width="20%" /> 
-  <img src="images/logo-nsf.jpg" width="20%" /> 
-</p>
---->
+:::{table} Organizing Committee Sponsors are listed below.
+:label: table
+:align: center
 |  |  |  |
 | --------------------------------- | ------------------------------------- | ------------------------------------- |
 | ![NSF NCAR](images/logo-ncar.png) | ![NOAA](images/logo-noaa.png)         | ![NWS](images/logo-nws.png)           |
 | ![DOE](images/logo-doe.png)       | ![CW3E](images/logo-cw3e.png)         | ![Berkeley Lab](images/logo-lbnl.png) |
 | ![PNNL](images/logo-pnnl.png)     | ![SCRIPPS UCSD](images/logo-ucsd.png) | ![NSF](images/logo-nsf.jpg)           |
+:::
