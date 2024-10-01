@@ -9,7 +9,7 @@ Listed algorithms (A1, A2, etc.) have submitted catalogues for Tier 1. Algorithm
 Algorithm Grid, by Christine Shields
 :::
 
-:::{table}
+:::{table} Algorithms
 :label: table
 :align: center
 | Developer | Type | Geometry Req. | Threshold Req. | Temporal Req. | Region | DOI/Reference |
