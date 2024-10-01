@@ -54,24 +54,10 @@ Atmospheric rivers (ARs) are dynamically driven, filamentary structures that acc
       :::
 :::
 
-:::{figure-md}
-  :align: left
-  :width: 50%
-  ![A satellite image of an Atmospheric River impacting the UK](images/ARTMIP_2014Jan24.UK_.flooding.jpg)
-  
-  Atmospheric River event January 24 05 GMT. One event among many impacting the UK during the winter of 2013/2014.
-  :::
-:::{figure-md}
-  :align: right
-  :width: 50%
-  ![A satellite image of an Atmospheric River impacting Northern California](images/ARTMIP_2017Feb10.OrovilleDamCrisis-cropped.jpg)
-  
-  Atmospheric River event February 10 00 GMT. The Oroville Dam Crisis, in northern California, occurred during this event in 2017.
-  :::
-
+<!---
 <p align="center"><kbd>
   <a href=https://tropic.ssec.wisc.edu/real-time/mimic-tpw/global/main.html> <b>VIEW SATELLITE IMAGERY SOURCE</b> </a>
-  </kbd></p>
+  </kbd></p>--->
 
 ## What is the purpose of ARTMIP?
 The goal of ARTMIP is to understand and quantify uncertainties in atmospheric river (AR) science based on choice of detection/tracking methodology. The climatological characteristics of ARs, such as AR frequency, duration, intensity, and seasonality, are all strongly dependent on the method used to identify ARs. It is, however, the precipitation attributable to ARs that is perhaps most strongly affected, and this has significant implications for our understanding of how ARs contribute to regional hydroclimate now and in the future.
