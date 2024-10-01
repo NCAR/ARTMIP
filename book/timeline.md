@@ -1,6 +1,8 @@
 # Timeline
-Completed targets are indicated with a checkmark, if you want to contribute a catalogue, please contact Christine.
 
+:::{table} Completed targets are indicated with a checkmark, if you want to contribute a catalogue, please contact Christine.
+:label: table
+:align: center
 | Completed/<br>In-Progress | Target Date | Activity |
 | :---: | ------------- | ------------- |
 |          | On-going 2022/2023 | Tier 1 and Tier 2 Analysis and Scientific Papers |
@@ -18,3 +20,4 @@ Completed targets are indicated with a checkmark, if you want to contribute a ca
 | &#10003; | **November 20 2017** | **Full Tier 1 Catalogues Due** |
 | &#10003; | **August/September 2017** | **1-Month Proof of Concept Test** |
 | &#10003; | **May 2017** | **1<sup>st</sup> ARTMIP Workshop** |
+:::
