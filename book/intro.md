@@ -37,7 +37,7 @@ Atmospheric rivers (ARs) are dynamically driven, filamentary structures that acc
 | Atmospheric River event January 24 05 GMT. One event among many impacting the UK during the winter of 2013/2014. | Atmospheric River event February 10 00 GMT. The Oroville Dam Crisis, in northern California, occurred during this event in 2017. |
 --->
 
-:::{list-table}
+'''{list-table} <a href=https://tropic.ssec.wisc.edu/real-time/mimic-tpw/global/main.html> <b>VIEW SATELLITE IMAGERY SOURCE</b> </a>
 :widths: 50 50
 :header-rows: 1
 
@@ -53,11 +53,7 @@ Atmospheric rivers (ARs) are dynamically driven, filamentary structures that acc
       
       Atmospheric River event February 10 00 GMT. The Oroville Dam Crisis, in northern California, occurred during this event in 2017.
       :::
-
-<p align="center"><kbd>
-  <a href=https://tropic.ssec.wisc.edu/real-time/mimic-tpw/global/main.html> <b>VIEW SATELLITE IMAGERY SOURCE</b> </a>
-  </kbd></p>
-:::
+'''
 
 <!---
 <p align="center"><kbd>
