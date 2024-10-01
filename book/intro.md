@@ -1,7 +1,3 @@
----
-numbering: false
----
-
 # Atmospheric River Tracking Method Intercomparison Project (ARTMIP)
 
 ## What are Atmospheric Rivers (ARs)?
@@ -39,7 +35,6 @@ Atmospheric rivers (ARs) are dynamically driven, filamentary structures that acc
 
 :::{list-table} <a href=https://tropic.ssec.wisc.edu/real-time/mimic-tpw/global/main.html> <b>VIEW SATELLITE IMAGERY SOURCE</b> </a>
 :widths: 50 50
-:numbering: false
 
 *   - :::{figure-md}
       :align: center
@@ -80,8 +75,8 @@ Scientific focus on ARs has grown exponentially over the last decade, and conseq
 </p>--->
 
 :::{figure-md} AlgoGrid
-:width: 55%
-:align: right
+:width: 75%
+:align: center
 ![Algorithm Grid](images/AlgorithmGrid.v2.jpg)
 
 Algorithm Grid, by Christine Shields
