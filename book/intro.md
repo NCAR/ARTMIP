@@ -1,3 +1,7 @@
+---
+numbering: false
+---
+
 # Atmospheric River Tracking Method Intercomparison Project (ARTMIP)
 
 ## What are Atmospheric Rivers (ARs)?
@@ -50,10 +54,9 @@ Scientific focus on ARs has grown exponentially over the last decade, and conseq
 <!---  <img src="https://github.com/brmy4086/ARTMIP/blob/87f22911c309981f7a1db8ae8af3469428e0a46d/book/images/AlgorithmGrid.v2.jpg">
   Algorithm Grid, by Christine Shields
 </p>--->
-numbering: false
 
 :::{figure-md} AlgoGrid
-:width: 40%
+:width: 55%
 :align: right
 ![Algorithm Grid](images/AlgorithmGrid.v2.jpg)
 
