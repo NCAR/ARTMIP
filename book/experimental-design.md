@@ -43,14 +43,14 @@ Tier 1 and Tier 2 (where applicable) will include comparisons to precipitation d
 </p>--->
 
 ## Tier Leads
-Christine Shields, NSF NCAR: Experimental Design and Logistics Lead
+**Christine Shields** (NSF NCAR): Experimental Design and Logistics Lead
 
-Jonathan Rutz NWS,CW3E: Tier 1
+**Jonathan Rutz** (NWS, CW3E): Tier 1
 
-Ashley Payne U.Michigan: Tier 2 C20C+
+**Ashley Payne** (U.Michigan): Tier 2 C20C+
 
-Travis O'Brien LNBL, IU: Tier 2 CMIP5/6
+**Travis O'Brien** (LNBL, IU): Tier 2 CMIP5/6
 
-Allison Collow NASA,GMAO:  Tier 2 Reanalysis
+**Allison Collow** (NASA, GMAO):  Tier 2 Reanalysis
 
-Juan Lora, Yale:  Tier 2 Paleo
+**Juan Lora** (Yale):  Tier 2 Paleo
