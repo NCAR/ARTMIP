@@ -5,7 +5,9 @@
 :align: center
 | Completed/<br>In-Progress | Target Date | Activity |
 | :---: | ------------- | ------------- |
-|          | On-going 2022/2023 | Tier 1 and Tier 2 Analysis and Scientific Papers |
+|          | TBD | Future Directions Telecom |
+|          | On-going | [Future ARTMIP directions survey](https://forms.gle/Fai2qPAyiaxYxvSX9) |
+|          | On-going | Tier 1 and Tier 2 Analysis and Scientific Papers |
 | &#10003; | **May 2022** | **Tier 2 Paleoclimate Catalogues Due** |
 | &#10003; | **March 21, 2021** | **Tier 2 Reanalysis and Paleo Telecon** |
 | &#10003; | **Fall 2020** | **Tier 2 Reanalysis Optional Catalogues Due and Analysis** |
