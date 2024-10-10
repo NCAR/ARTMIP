@@ -70,7 +70,7 @@ Ralph, F.M., Wilson, A.M., Shulgina, T., Kawzenuk, K., Sellars, S., Rutz, J.J., 
 **Shields, C. A., Rutz, J. J., Leung, L.-Y., Ralph, F. M., Wehner, M., Kawzenuk, B., Lora, J. M., McClenny, E., Osborne, T., Payne, A. E., Ullrich, P., Gershunov, A., Goldenson, N., Guan, B., Qian, Y., Ramos, A. M., Sarangi, C., Sellars, S., Gorodetskaya, I., Kashinath, K., Kurlin, V., Mahoney, K., Muszynski, G., Pierce, R., Subramanian, A. C., Tome, R., Waliser, D., Walton, D., Wick, G., Wilson, A., Lavers, D., Prabhat, Collow, A., Krishnan, H., Magnusdottir, G., and Nguyen, P.: Atmospheric River Tracking Method Intercomparison Project (ARTMIP): project goals and experimental design, Geosci. Model Dev., 11, 2455-2474, <https://doi.org/10.5194/gmd-11-2455-2018>, 2018.**
 
  
-View the [ARTMIP data access, citation, and authorship policy](/policies.md)
+View the [ARTMIP data access, citation, and authorship policy](policies.md)
 
 ---
 ## Publications with detection algorithm details
