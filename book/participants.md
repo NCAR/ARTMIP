@@ -18,19 +18,19 @@ For participants, please refer to our overview papers:
 
 *   - :::{figure-md}
       :align: center
-      [![ARTMIP 3<sup>rd</sup> Workshop - October 2019](images/ARTMIP17Oct2019_0.jpg)](images/ARTMIP17Oct2019_0.jpg)
+      ![ARTMIP 3<sup>rd</sup> Workshop - October 2019](images/ARTMIP17Oct2019_0.jpg)
       
       ARTMIP 3<sup>rd</sup> Workshop - October 2019
       :::
     - :::{figure-md}
       :align: center
-      [![ARTMIP 2<sup>nd</sup> Workshop - April 2018](images/ARTMIP_Workshop_April_2018.jpeg)](images/ARTMIP_Workshop_April_2018.jpeg)
+      ![ARTMIP 2<sup>nd</sup> Workshop - April 2018](images/ARTMIP_Workshop_April_2018.jpeg)
       
       ARTMIP 2<sup>nd</sup> Workshop - April 2018
       :::
     - :::{figure-md}
       :align: center
-      [![ARTMIP 1<sup>st</sup> Workshop - May 2017](images/ARTMIP_Workshop_May_2017.jpeg)](images/ARTMIP_Workshop_May_2017.jpeg)
+      ![ARTMIP 1<sup>st</sup> Workshop - May 2017](images/ARTMIP_Workshop_May_2017.jpeg)
  
       ARTMIP 1<sup>st</sup> Workshop - May 2017
       :::
