@@ -5,43 +5,45 @@
 
  
 ### 2024
-Zhang, L., Zhao, Y., Cheng, T. F., & Lu, M. (2024). Future changes in global atmospheric rivers projected by CMIP6 models. Journal of Geophysical Research: Atmospheres, 129, e2023JD039359. [https://doi.org/10.1029/2023JD039359](https://doi.org/10.1029/2023JD039359)
+Reiher, C. A., and A. C. Winters, 2024: Discriminating Factors that Favor the Development of High-Impact Weather Events in Association with Polar–Subtropical Jet Superpositions. Mon. Wea. Rev., 152, 909–924, <https://doi.org/10.1175/MWR-D-23-0061.1>.
 
-O’Brien, T. A., Loring, B., Dufek, A. S., Islam, M. R., Kamnani, D., Quagraine, K. T., & Kirkpatrick, C. (2024). Atmospheric rivers in the eastern and midwestern United States associated with baroclinic waves. Geophysical Research Letters, 51, e2023GL107236. [https://doi.org/10.1029/2023GL107236](https://doi.org/10.1029/2023GL107236).
+Zhang, L., Zhao, Y., Cheng, T. F., & Lu, M. (2024). Future changes in global atmospheric rivers projected by CMIP6 models. Journal of Geophysical Research: Atmospheres, 129, e2023JD039359. <https://doi.org/10.1029/2023JD039359>.
+
+O’Brien, T. A., Loring, B., Dufek, A. S., Islam, M. R., Kamnani, D., Quagraine, K. T., & Kirkpatrick, C. (2024). Atmospheric rivers in the eastern and midwestern United States associated with baroclinic waves. Geophysical Research Letters, 51, e2023GL107236. <https://doi.org/10.1029/2023GL107236>.
 
  
 
 ### 2023
-Higgins, T. B., Subramanian, A. C., Graubner, A., Kapp-Schwoerer, L., Watson, P. A. G., Sparrow, S., et al. (2023). Using deep learning for an analysis of atmospheric rivers in a high-resolution large ensemble climate data set. Journal of Advances in Modeling Earth Systems, 15, e2022MS003495. [https://doi.org/10.1029/2022MS003495](https://doi.org/10.1029/2022MS003495)
+Higgins, T. B., Subramanian, A. C., Graubner, A., Kapp-Schwoerer, L., Watson, P. A. G., Sparrow, S., et al. (2023). Using deep learning for an analysis of atmospheric rivers in a high-resolution large ensemble climate data set. Journal of Advances in Modeling Earth Systems, 15, e2022MS003495. <https://doi.org/10.1029/2022MS003495>
 
-**Shields, C. A., Payne, A. E., Shearer, E. J., Wehner, M. F., O’Brien, T. A., Rutz, J. J., Leung, L.R., Ralph, F. M.,  Collow, A. B. M.,  Ullrich, P. A. Ullrich,  Dong, Q.,  Gershunov, A.,  Griffith, H.,  Guan, B.,  Lora, J. M., Lu, M.,  McClenny, E.,  Nardi, K. M.,  Pan, M.,  Qian, Y.,  Ramos, A. M. Ramos,  Shulgina, T.,  Viale, M.,  Sarangi, C., Tomé, R., Zarzycki, C. (2023). Future atmospheric rivers and impacts on precipitation: Overview of the ARTMIP Tier 2 high-resolution global warming experiment. Geophysical Research Letters, 50, e2022GL102091. [https://doi.org/10.1029/2022GL102091](https://doi.org/10.1029/2022GL102091)**
+**Shields, C. A., Payne, A. E., Shearer, E. J., Wehner, M. F., O’Brien, T. A., Rutz, J. J., Leung, L.R., Ralph, F. M.,  Collow, A. B. M.,  Ullrich, P. A. Ullrich,  Dong, Q.,  Gershunov, A.,  Griffith, H.,  Guan, B.,  Lora, J. M., Lu, M.,  McClenny, E.,  Nardi, K. M.,  Pan, M.,  Qian, Y.,  Ramos, A. M. Ramos,  Shulgina, T.,  Viale, M.,  Sarangi, C., Tomé, R., Zarzycki, C. (2023). Future atmospheric rivers and impacts on precipitation: Overview of the ARTMIP Tier 2 high-resolution global warming experiment. Geophysical Research Letters, 50, e2022GL102091. <https://doi.org/10.1029/2022GL102091>**
 
-Mattingly, K.S., Turton, J.V., Wille, J.D. et al. Increasing extreme melt in northeast Greenland linked to foehn winds and atmospheric rivers. Nat Commun 14, 1743 (2023). [https://doi.org/10.1038/s41467-023-37434-8](https://doi.org/10.1038/s41467-023-37434-8).
+Mattingly, K.S., Turton, J.V., Wille, J.D. et al. Increasing extreme melt in northeast Greenland linked to foehn winds and atmospheric rivers. Nat Commun 14, 1743 (2023). <https://doi.org/10.1038/s41467-023-37434-8>.
 
  
 
 ### 2022
-Lee, S. H., Polvani, L. M., & Guan, B. (2022). Modulation of atmospheric rivers by the Arctic stratospheric polar vortex. Geophysical Research Letters, 49, e2022GL100381. [https://doi.org/10.1029/2022GL100381](https://doi.org/10.1029/2022GL100381)
+Lee, S. H., Polvani, L. M., & Guan, B. (2022). Modulation of atmospheric rivers by the Arctic stratospheric polar vortex. Geophysical Research Letters, 49, e2022GL100381. <https://doi.org/10.1029/2022GL100381>
 
-Leung, L. R., Boos, W. R., Catto, J. L., A. DeMott, C., Martin, G. M., Neelin, J. D., et al. (2022). Exploratory Precipitation Metrics: Spatiotemporal Characteristics, Process-Oriented, and Phenomena-Based. Journal of Climate, 35(12), 3659–3686. [https://doi.org/10.1175/JCLI-D-21-0590.1](https://doi.org/10.1175/JCLI-D-21-0590.1).
+Leung, L. R., Boos, W. R., Catto, J. L., A. DeMott, C., Martin, G. M., Neelin, J. D., et al. (2022). Exploratory Precipitation Metrics: Spatiotemporal Characteristics, Process-Oriented, and Phenomena-Based. Journal of Climate, 35(12), 3659–3686. <https://doi.org/10.1175/JCLI-D-21-0590.1>.
 
-**Collow, A.B., Shields, C.A., Guan, B., Kim, S., Lora, J.M., McClenny, E.E., Nardi, K., Payne, A., Reid, K., Shearer, E. J. , Tome, R., Wille, J.D., Ramos, A.M., Gorodetskaya, I.V., Leung, L.R., O’Brien, T.A., Ralph, F.M., Rutz, J. Ullirich, P.A., Wehner, M., (2022) An Overview of ARTMIP’s Tier 2 Reanalysis Intercomparison: Uncertainty in the Detection of Atmospheric Rivers and their Associated Precipitation, Journal of Geophysical Research, Atmospheres, [https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021JD036155](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021JD036155).**
+**Collow, A.B., Shields, C.A., Guan, B., Kim, S., Lora, J.M., McClenny, E.E., Nardi, K., Payne, A., Reid, K., Shearer, E. J. , Tome, R., Wille, J.D., Ramos, A.M., Gorodetskaya, I.V., Leung, L.R., O’Brien, T.A., Ralph, F.M., Rutz, J. Ullirich, P.A., Wehner, M., (2022) An Overview of ARTMIP’s Tier 2 Reanalysis Intercomparison: Uncertainty in the Detection of Atmospheric Rivers and their Associated Precipitation, Journal of Geophysical Research, Atmospheres, <https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021JD036155>.**
 
-Shields, C. A., Wille, J. D., Marquardt Collow, A. B., Maclennan, M., & Gorodetskaya, I. V. (2022). Evaluating uncertainty and modes of variability for Antarctic atmospheric rivers. Geophysical Research Letters, 49, e2022GL099577 . [https://doi.org/10.1029/2022GL099577](https://doi.org/10.1029/2022GL099577).
+Shields, C. A., Wille, J. D., Marquardt Collow, A. B., Maclennan, M., & Gorodetskaya, I. V. (2022). Evaluating uncertainty and modes of variability for Antarctic atmospheric rivers. Geophysical Research Letters, 49, e2022GL099577 . <https://doi.org/10.1029/2022GL099577>.
 
  
 ### 2021
-**O’Brien, Travis Allen and Wehner, Michael F and Payne, Ashley E. and Shields, Christine A and Rutz, Jonathan J. and Leung, L. Ruby and Ralph, F. Martin and Marquardt Collow, Allison B. and Guan, Bin and Lora, Juan Manuel and et al., (2022) Increases in Future AR Count and Size: Overview of the ARTMIP Tier 2 CMIP5/6 Experiment. JGR-A [https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021JD036013](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021JD036013).**
+**O’Brien, Travis Allen and Wehner, Michael F and Payne, Ashley E. and Shields, Christine A and Rutz, Jonathan J. and Leung, L. Ruby and Ralph, F. Martin and Marquardt Collow, Allison B. and Guan, Bin and Lora, Juan Manuel and et al., (2022) Increases in Future AR Count and Size: Overview of the ARTMIP Tier 2 CMIP5/6 Experiment. JGR-A <https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021JD036013>.**
 
 Inda-Díaz, H. A., O'Brien, T. A., Zhou, Y., & Collins, W. D. (2021). Constraining and Characterizing the size of Atmospheric Rivers: A perspective independent from the detection algorithm. Journal of Geophysical Research: Atmospheres, 126, e2020JD033746. [https://doi.org/10.1029/2020JD033746](https://doi.org/10.1029/2020JD033746).
 
-Zhou, Y., O'Brien, T. A., Ullrich, P. A., Collins, W. D., Patricola, C. M., & Rhoades, A. M. (2021). Uncertainties in atmospheric river lifecycles by detection algorithms: Climatology and variability. Journal of Geophysical Research: Atmospheres, 126, e2020JD033711. [https://doi.org/10.1029/2020JD033711](https://doi.org/10.1029/2020JD033711).
+Zhou, Y., O'Brien, T. A., Ullrich, P. A., Collins, W. D., Patricola, C. M., & Rhoades, A. M. (2021). Uncertainties in atmospheric river lifecycles by detection algorithms: Climatology and variability. Journal of Geophysical Research: Atmospheres, 126, e2020JD033711. <https://doi.org/10.1029/2020JD033711>.
 
  
 ### 2020
-Lora, J. M., Shields, C. A., & Rutz, J. J., (2020), Consensus and disagreement in atmospheric river detection: ARTMIP global catalogues. Geophysical Research Letters, 47, e2020GL089302,[https://doi.org/10.1029/2020GL089302](https://doi.org/10.1029/2020GL089302).
+Lora, J. M., Shields, C. A., & Rutz, J. J., (2020), Consensus and disagreement in atmospheric river detection: ARTMIP global catalogues. Geophysical Research Letters, 47, e2020GL089302,<https://doi.org/10.1029/2020GL089302>.
 
-Payne, A.E., Demory, M., Leung, L.R., Ramos, A., Shields C.A., Rutz, J. J., Siler, N., Villarini, G., Hall, A., Ralph, F. M., Responses and impacts of atmospheric rivers to climate change. Nat Rev Earth Environ 1, 143–157, [https://doi.org/10.1038/s43017-020-0030-5](https://doi.org/10.1038/s43017-020-0030-5) , 2020.
+Payne, A.E., Demory, M., Leung, L.R., Ramos, A., Shields C.A., Rutz, J. J., Siler, N., Villarini, G., Hall, A., Ralph, F. M., Responses and impacts of atmospheric rivers to climate change. Nat Rev Earth Environ 1, 143–157, <https://doi.org/10.1038/s43017-020-0030-5> , 2020.
 
  
 ### 2019
@@ -49,26 +51,26 @@ Chen, X., Leung, L. R., Wigmosta, M., &Richmond, M. (2019). Impact ofatmospheric
 
 DOE Report: Report of the 3rd ARTMIP Workshop. 2019. (DOE Meeting Reports)
 
-O’Brien, T. A., and Coauthors, 2020: Detection Uncertainty Matters for Understanding Atmospheric Rivers. Bull. Amer. Meteor. Soc., 101, E790–E796, Bull. Amer. Meteor. Soc. , [https://doi.org/10.1175/BAMS-D-19-0348.1](https://doi.org/10.1175/BAMS-D-19-0348.1).
+O’Brien, T. A., and Coauthors, 2020: Detection Uncertainty Matters for Understanding Atmospheric Rivers. Bull. Amer. Meteor. Soc., 101, E790–E796, Bull. Amer. Meteor. Soc. , <https://doi.org/10.1175/BAMS-D-19-0348.1>.
 
-**Rutz, J.J, Shields, C.A., Lora, J.M, Payne, A.E., Guan, B., Ullrich, P., O'Brien, T., Leung, L.-Y., Ralph, F.M., Wehner, M., Brands, S., Collow, A., Goldenson, N., Gorodetskaya, I., Griffith, H., Hagos, S., Kashinath, K., Kawzenuk, B., Krishnan, H., Kurlin, V., Lavers, D., Magnusdottir, G., Mahoney, K., McClenny, E., Muszynski, G., Nguyen, P.D., Prabhat, Qian, Y., Ramos, A.M., Sarangi, C., Sellars, S., Shulgina, T., Tome, R., Waliser, D., Walton, D., Wick, G., Wilson, A., Viale, M.: The Atmospheric River Tracking Method Intercomparison Project (ARTMIP): Quantifying Uncertainties in Atmospheric River Climatology, Journal of Geophysical Research-Atmospheres , [https://doi.org/10.1029/2019JD030936](https://doi.org/10.1029/2019JD030936), 2019.**
+**Rutz, J.J, Shields, C.A., Lora, J.M, Payne, A.E., Guan, B., Ullrich, P., O'Brien, T., Leung, L.-Y., Ralph, F.M., Wehner, M., Brands, S., Collow, A., Goldenson, N., Gorodetskaya, I., Griffith, H., Hagos, S., Kashinath, K., Kawzenuk, B., Krishnan, H., Kurlin, V., Lavers, D., Magnusdottir, G., Mahoney, K., McClenny, E., Muszynski, G., Nguyen, P.D., Prabhat, Qian, Y., Ramos, A.M., Sarangi, C., Sellars, S., Shulgina, T., Tome, R., Waliser, D., Walton, D., Wick, G., Wilson, A., Viale, M.: The Atmospheric River Tracking Method Intercomparison Project (ARTMIP): Quantifying Uncertainties in Atmospheric River Climatology, Journal of Geophysical Research-Atmospheres , <https://doi.org/10.1029/2019JD030936>, 2019.**
 
-Shields, C. A., Rosenbloom, N., Bates,S., Hannay, C., Hu, A., Payne, A. E., Rutz, J. J., Truesdale, J., Meridional heat transport during atmospheric rivers in high‐resolution CESM climate projections. Geophysical Research Letters, 46. [https://doi.org/10.1029/2019GL085565](https://doi.org/10.1029/2019GL085565)., 2019.
+Shields, C. A., Rosenbloom, N., Bates,S., Hannay, C., Hu, A., Payne, A. E., Rutz, J. J., Truesdale, J., Meridional heat transport during atmospheric rivers in high‐resolution CESM climate projections. Geophysical Research Letters, 46. <https://doi.org/10.1029/2019GL085565>., 2019.
 
-Shields, C.A., J.J. Rutz, L.R. Leung, F.M. Ralph, M. Wehner, T. O’Brien, and R. Pierce, 0: Defining Uncertainties Through Comparison of Atmospheric River Tracking Methods. Bull. Amer. Meteor. Soc., 0, [https://doi.org/10.1175/BAMS-D-18-0200.1](https://doi.org/10.1175/BAMS-D-18-0200.1) , 2019.
+Shields, C.A., J.J. Rutz, L.R. Leung, F.M. Ralph, M. Wehner, T. O’Brien, and R. Pierce, 0: Defining Uncertainties Through Comparison of Atmospheric River Tracking Methods. Bull. Amer. Meteor. Soc., 0, <https://doi.org/10.1175/BAMS-D-18-0200.1> , 2019.
 
  
 ### 2018
-Chen, X., Leung, L. R., Gao, Y., Liu, Y., Wigmosta, M., & Richmond, M., Predictability of Extreme Precipitation in Western U.S. Watersheds Based on Atmospheric River Occurrence, Intensity, and Duration. Geophysical Research Letters, 45. [https://doi.org/10.1029/2018GL079831](https://doi.org/10.1029/2018GL079831) , 2018.
+Chen, X., Leung, L. R., Gao, Y., Liu, Y., Wigmosta, M., & Richmond, M., Predictability of Extreme Precipitation in Western U.S. Watersheds Based on Atmospheric River Occurrence, Intensity, and Duration. Geophysical Research Letters, 45. <https://doi.org/10.1029/2018GL079831> , 2018.
 
 DOE Reports: Report of the 2nd ARTMIP Workshop DOE/SE-0194, 2018.
 
-Ralph, F.M., Wilson, A.M., Shulgina, T., Kawzenuk, K., Sellars, S., Rutz, J.J., Lamjiri, M.A., Barnes, E.A., Gershunov,A., Guan, B., Nardi, K., Osborne, T., and Wick, G.A.: ARTMIP-early start comparison of atmospheric river detection tools: How many atmospheric rivers hit northern California's Russian River Watershed? Clim. Dyn. , [https://doi.org/10.1007/s00382-018-4427-5](https://doi.org/10.1007/s00382-018-4427-5)., 2018.
+Ralph, F.M., Wilson, A.M., Shulgina, T., Kawzenuk, K., Sellars, S., Rutz, J.J., Lamjiri, M.A., Barnes, E.A., Gershunov,A., Guan, B., Nardi, K., Osborne, T., and Wick, G.A.: ARTMIP-early start comparison of atmospheric river detection tools: How many atmospheric rivers hit northern California's Russian River Watershed? Clim. Dyn. , <https://doi.org/10.1007/s00382-018-4427-5>., 2018.
 
-**Shields, C. A., Rutz, J. J., Leung, L.-Y., Ralph, F. M., Wehner, M., Kawzenuk, B., Lora, J. M., McClenny, E., Osborne, T., Payne, A. E., Ullrich, P., Gershunov, A., Goldenson, N., Guan, B., Qian, Y., Ramos, A. M., Sarangi, C., Sellars, S., Gorodetskaya, I., Kashinath, K., Kurlin, V., Mahoney, K., Muszynski, G., Pierce, R., Subramanian, A. C., Tome, R., Waliser, D., Walton, D., Wick, G., Wilson, A., Lavers, D., Prabhat, Collow, A., Krishnan, H., Magnusdottir, G., and Nguyen, P.: Atmospheric River Tracking Method Intercomparison Project (ARTMIP): project goals and experimental design, Geosci. Model Dev., 11, 2455-2474, [https://doi.org/10.5194/gmd-11-2455-2018](https://doi.org/10.5194/gmd-11-2455-2018), 2018.**
+**Shields, C. A., Rutz, J. J., Leung, L.-Y., Ralph, F. M., Wehner, M., Kawzenuk, B., Lora, J. M., McClenny, E., Osborne, T., Payne, A. E., Ullrich, P., Gershunov, A., Goldenson, N., Guan, B., Qian, Y., Ramos, A. M., Sarangi, C., Sellars, S., Gorodetskaya, I., Kashinath, K., Kurlin, V., Mahoney, K., Muszynski, G., Pierce, R., Subramanian, A. C., Tome, R., Waliser, D., Walton, D., Wick, G., Wilson, A., Lavers, D., Prabhat, Collow, A., Krishnan, H., Magnusdottir, G., and Nguyen, P.: Atmospheric River Tracking Method Intercomparison Project (ARTMIP): project goals and experimental design, Geosci. Model Dev., 11, 2455-2474, <https://doi.org/10.5194/gmd-11-2455-2018>, 2018.**
 
  
-View the [ARTMIP data access, citation, and authorship policy](https://www.cgd.ucar.edu/projects/artmip/policies)
+View the [ARTMIP data access, citation, and authorship policy](/policies.md)
 
 ---
 ## Publications with detection algorithm details
