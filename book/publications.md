@@ -82,6 +82,8 @@ Gao, Y., J. Lu, and L.R. Leung, 2016: Uncertainties in projecting future changes
 
 Leung, L. R., and Y. Qian, 2009: Atmospheric rivers induced heavy precipitation and flooding in the western U.S. simulated by the WRF regional climate model, Geophys. Res. Lett., 36, L03820, [doi:10.1029/2008GL036445](https://doi.org/10.1029/2008GL036445).
 
+Gavrikov. A. V.,  Krinitsky, M., 2020 IOP Conf. Ser.: Earth Environ. Sci. 606 012011, DOI 10.1088/1755-1315/606/1/012011.
+
 Gershunov, A., T. Shulgina, F. M. Ralph, D. A. Lavers, and J. J. Rutz, 2017: Assessing the climate-scale variability of atmospheric rivers affecting western North America, Geophys. Res. Lett., 44, 7900–7908, [doi:10.1002/2017GL074175](https://doi.org/10.1002/2017GL074175).
 
 Goldenson, N., Leung, L.R., Bitz, C.M., Blanchard-Wrigglesworth, E.: Influence of Atmospheric River Events on Mountain Snowpack of the Western U.S., JCLI, [doi:10.1175/JCLI-D-18-0268.1](https://doi.org/10.1175/JCLI-D-18-0268.1).
