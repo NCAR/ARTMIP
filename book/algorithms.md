@@ -13,6 +13,7 @@ Algorithm Grid, by Christine Shields
 :label: table
 :align: center
 <div  style="overflow-x: scroll;">
+  
 | Developer | Type | Geometry Req. | Threshold Req. | Temporal Req. | Region | DOI/Reference |
 | --------- | ---- | ------------- | -------------- | ------------- | ------ | ------------- |
 | Brands et al | Condition | > 1500 km | Both Relative and Absolute IVT:<br>95<sup>th</sup>(A16)/90<sup>th</sup>(A23)/90<sup>th</sup>(A24) percentile at point of detection, 90<sup>th</sup>/85<sup>th</sup>/85<sup>th</sup> percentile along the AR structure, consider all months for threshold calculation with a min threshold of 240/500/250 kgm<sup>-1</sup>s<sup>-1</sup>.<br>Spatial tracking guided by vector IVT. | Time slice | 150°W to 30°E<br>30°N to 62°N | [10.1007/s00382-016-3095-6](https://doi.org/10.1007/s00382-016-3095-6) |
@@ -49,6 +50,7 @@ Algorithm Grid, by Christine Shields
 | Wille et al. | Condition | Length > 20° (2000 km) equatorward with no breaks. Defined as AR landfall if AR shape overlaps a land grid cell. | Relative > 98<sup>th</sup> percentile IWV(A28) or vIVT(29) based on monthly climatological means | Time slice | Polar: Antarctic(37.5°-78°S; Arctic(37.5°-80°N | [Antarctic 10.1029/2020JD033788](https://doi.org/10.1029/2020JD033788) Arctic: Experimental | 
 | Xu et al. (IPART) | Condition and Track | Length >= 1500 km, area in range [50&#42;10<sup>4</sup>, 1800&#42;10<sup>4</sup> km<sup>2</sup>], L/W ratio>=2, isoperimetric quotient < 0.7, centroid latitude > 20 N, < 80 N. | Threshold free;Select transient IVT plumes standing out from a temporal scale of 8 days;Spatial scale of ~ 1000 km | Time slice and stitching | Northern Hemisphere | [10.5194/gmd-13-4639-2020](https://doi.org/10.5194/gmd-13-4639-2020) | 
 | Zhang, Tung, & Cleveland<sup>g</sup> (Purdue) | Multifactorial Conditions and Track | (Length >= 1500, 1800, OR 2000 km) AND (Length/average Width >= 2) | Relative: (75<sup>th</sup>, 85<sup>th</sup>, OR 95<sup>th</sup> monthly percentile applied at every gridpoint, in ENSO neutral and weak ENSO years) (IVT, IWV, OR IVT+IWV) | (Persistent Duration >=12, 18, OR 24 hours) AND (Break < 24 hours) | Regional: West-Coast landfalling region: located between 33-48.5N and 124.375-114.375W; Midwest region is between 37-47N and 94-84W | [10.1029/2020JD033667](https://doi.org/10.1029/2020JD033667) |
+
 </div>
 :::
 
