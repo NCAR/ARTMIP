@@ -12,7 +12,7 @@ Algorithm Grid, by Christine Shields
 :::{table} Algorithms
 :label: table
 :align: center
-<div  style="overflow-x: hidden;">
+<div  style="overflow-x: scroll;">
 | Developer | Type | Geometry Req. | Threshold Req. | Temporal Req. | Region | DOI/Reference |
 | --------- | ---- | ------------- | -------------- | ------------- | ------ | ------------- |
 | Brands et al | Condition | > 1500 km | Both Relative and Absolute IVT:<br>95<sup>th</sup>(A16)/90<sup>th</sup>(A23)/90<sup>th</sup>(A24) percentile at point of detection, 90<sup>th</sup>/85<sup>th</sup>/85<sup>th</sup> percentile along the AR structure, consider all months for threshold calculation with a min threshold of 240/500/250 kgm<sup>-1</sup>s<sup>-1</sup>.<br>Spatial tracking guided by vector IVT. | Time slice | 150°W to 30°E<br>30°N to 62°N | [10.1007/s00382-016-3095-6](https://doi.org/10.1007/s00382-016-3095-6) |
