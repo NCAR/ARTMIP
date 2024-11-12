@@ -51,6 +51,24 @@ Algorithm Grid, by Christine Shields
 | Zhang, Tung, & Cleveland<sup>g</sup> (Purdue) | Multifactorial Conditions and Track | (Length >= 1500, 1800, OR 2000 km) AND (Length/average Width >= 2) | Relative: (75<sup>th</sup>, 85<sup>th</sup>, OR 95<sup>th</sup> monthly percentile applied at every gridpoint, in ENSO neutral and weak ENSO years) (IVT, IWV, OR IVT+IWV) | (Persistent Duration >=12, 18, OR 24 hours) AND (Break < 24 hours) | Regional: West-Coast landfalling region: located between 33-48.5N and 124.375-114.375W; Midwest region is between 37-47N and 94-84W | [10.1029/2020JD033667](https://doi.org/10.1029/2020JD033667) |
 :::
 
+:::{figure-md} AlgoGrid
+:width: 75%
+:align: center
+![Algorithm Grid](images/AlgorithmGrid.v2.jpg)
+
+TEST
+:::
+
+:::{table} Algorithms
+:label: table
+:align: center
+  
+| Developer | Type | Geometry Req. | Threshold Req. | Temporal Req. | Region | DOI/Reference |
+| --------- | ---- | ------------- | -------------- | ------------- | ------ | ------------- |
+| Brands et al | <details> <summary></summary> Condition </details> | <details> <summary></summary> > 1500 km </details> | <details> <summary></summary> Both Relative and Absolute IVT:<br>95<sup>th</sup>(A16)/90<sup>th</sup>(A23)/90<sup>th</sup>(A24) percentile at point of detection, 90<sup>th</sup>/85<sup>th</sup>/85<sup>th</sup> percentile along the AR structure, consider all months for threshold calculation with a min threshold of 240/500/250 kgm<sup>-1</sup>s<sup>-1</sup>.<br>Spatial tracking guided by vector IVT. </details> | <details> <summary></summary> Time slice </details> | <details> <summary></summary> 150°W to 30°E<br>30°N to 62°N </details> | <details> <summary></summary> [10.1007/s00382-016-3095-6](https://doi.org/10.1007/s00382-016-3095-6) </details> |
+:::
+
+
 <sup>a</sup>ZN relative threshold formula: <math>Q >= Q<sub>zonal_mean</sub> + AR<sub>coeff</sub> (Q<sub>zonalmax</sub> – Q<sub>zonamean</sub>)</math> where Q = moisture variable, either IVT (kg m<sup>-1</sup>s<sup>-1</sup>) or IWV(cm). AR<sub>coeff</sub> = 0.3 except where noted (Zhu and Newell, 1998). The Gorodetskaya method uses Qsat, where Qsat represents maximum moisture holding capacity calculated based on temperature (Clausius-Clapeyron), an important distinction for polar ARs. Additional analysis on the ZN method can be found in Newman et al., 201
 
 <sup>b</sup>Methods used in a 1-month proof-of-concept test (Section 5). These methods are assigned an algorithm id, i.e. A1, A2, etc.
