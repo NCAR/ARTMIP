@@ -19,9 +19,7 @@ execute:
 #######################################################################################
 # Parse and render settings
 parse:
-  extensions:
-    - myst_parser
-    - sphinx_design
+  extensions: [myst_parser, sphinx_design]
     
   myst_enable_extensions:  # default extensions to enable in the myst parser. See https://myst-parser.readthedocs.io/en/latest/using/syntax-optional.html
     # - amsmath
