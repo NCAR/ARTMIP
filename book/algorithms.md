@@ -95,12 +95,16 @@ ARTMIP Tier1 catalogues, figure creation C.Shields (Supplemental figure S3 Shiel
 
 ::::{tab-set}
 
-:::{tab-item} Label1
-Content 1
+:::{tab-item} Brands et al
+| Developer | Type | Geometry Req. | Threshold Req. | Temporal Req. | Region | DOI/Reference |
+| --------- | ---- | ------------- | -------------- | ------------- | ------ | ------------- |
+| Brands et al | Condition | > 1500 km | Both Relative and Absolute IVT:<br>95<sup>th</sup>(A16)/90<sup>th</sup>(A23)/90<sup>th</sup>(A24) percentile at point of detection, 90<sup>th</sup>/85<sup>th</sup>/85<sup>th</sup> percentile along the AR structure, consider all months for threshold calculation with a min threshold of 240/500/250 kgm<sup>-1</sup>s<sup>-1</sup>.<br>Spatial tracking guided by vector IVT. | Time slice | 150°W to 30°E<br>30°N to 62°N | [10.1007/s00382-016-3095-6](https://doi.org/10.1007/s00382-016-3095-6) |
 :::
 
-:::{tab-item} Label2
-Content 2
+:::{tab-item} Gershunov et al<sup>b</sup>
+| Developer | Type | Geometry Req. | Threshold Req. | Temporal Req. | Region | DOI/Reference |
+| --------- | ---- | ------------- | -------------- | ------------- | ------ | ------------- |
+| Gershunov et al<sup>b</sup> | Condition and Track | <details> <summary></summary> >= 1500km long </details> | <details> <summary></summary> Absolute: 250kgm<sup>-1</sup>s<sup>-1</sup> IVT<br>1.5cm IWV </details> | Time stitching<br>-18 hours (3 time steps for 6 hourly data) | Western U.S. | [10.1002/2017GL074175](https://doi.org/10.1002/2017GL074175) | 
 :::
 
 ::::
