@@ -94,71 +94,67 @@ ARTMIP Tier1 catalogues, figure creation C.Shields (Supplemental figure S3 Shiel
 
 
 
+
+
 :::{table} Algorithms
 :label: table
 :align: center
 
-<div class="col-sm-12">
-  <div class="panel panel-default">
-    <div class="panel-heading">Option 1 - Collapsible Row Only</div>
-    <table class="table table-responsive table-hover">
-      <thead>
-        <tr>
-          <th>#</th>
-          <th>First Name</th>
-          <th>Last Name</th>
-          <th>Email</th>
-          <th>Company</th>
-          <th>Select</th>
-          <th></th>
-        </tr> 
-      </thead>
-      <tbody>
-        <tr data-toggle="collapse" id="row1" data-target=".row1">
-          <td>1</td>
-          <td>Mike</td>  
-          <td>David</td>
-          <td>mike@email.com</td>
-          <td>Mike Company</td>
-          <td><button class="btn btn-default btn-sm">View More</button></td>
-        </tr>
-        <tr class="collapse row1">
-          <td>10</td>
-          <td>Mike</td>  
-          <td>David</td>
-          <td>mike@email.com</td>
-          <td>Mike Company</td>
-          <td><input type="checkbox" /> Select</td>
-        </tr>
-        <tr class="clickable" data-toggle="collapse" id="row2" data-target=".row2">
-          <td>2</td>
-          <td>Jackson</td>  
-          <td>Roomney</td>
-          <td>jackson@email.com</td>
-          <td>Jackson Company</td>
-          <td><button class="btn btn-default btn-sm">View More</button></td>
-        </tr>
-        <tr class="collapse row2">
-          <td>2</td>
-          <td>Mike</td>  
-          <td>David</td>
-          <td>mike@email.com</td>
-          <td>Mike Company</td>
-          <td><input type="checkbox" /> Select</td>
-        </tr>
-        <tr class="collapse row2">
-          <td>2</td>
-          <td>Mike</td>  
-          <td>David</td>
-          <td>mike@email.com</td>
-          <td>Mike Company</td>
-          <td><input type="checkbox" /> Select</td>
-        </tr>
-      </tbody>
-    </table>
-  </div>
-</div>
+<thead>
+  <tr>
+    <th>#</th>
+    <th>First Name</th>
+    <th>Last Name</th>
+    <th>Email</th>
+    <th>Company</th>
+    <th>Select</th>
+    <th></th>
+  </tr> 
+</thead>
+<tbody>
+  <tr data-toggle="collapse" id="row1" data-target=".row1">
+    <td>1</td>
+    <td>Mike</td>  
+    <td>David</td>
+    <td>mike@email.com</td>
+    <td>Mike Company</td>
+    <td><button class="btn btn-default btn-sm">View More</button></td>
+  </tr>
+  <tr class="collapse row1">
+    <td>10</td>
+    <td>Mike</td>  
+    <td>David</td>
+    <td>mike@email.com</td>
+    <td>Mike Company</td>
+    <td><input type="checkbox" /> Select</td>
+  </tr>
+  <tr class="clickable" data-toggle="collapse" id="row2" data-target=".row2">
+    <td>2</td>
+    <td>Jackson</td>  
+    <td>Roomney</td>
+    <td>jackson@email.com</td>
+    <td>Jackson Company</td>
+    <td><button class="btn btn-default btn-sm">View More</button></td>
+  </tr>
+  <tr class="collapse row2">
+    <td>2</td>
+    <td>Mike</td>  
+    <td>David</td>
+    <td>mike@email.com</td>
+    <td>Mike Company</td>
+    <td><input type="checkbox" /> Select</td>
+  </tr>
+  <tr class="collapse row2">
+    <td>2</td>
+    <td>Mike</td>  
+    <td>David</td>
+    <td>mike@email.com</td>
+    <td>Mike Company</td>
+    <td><input type="checkbox" /> Select</td>
+  </tr>
+</tbody>
 :::
+
 
 
 
