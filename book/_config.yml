@@ -19,6 +19,10 @@ execute:
 #######################################################################################
 # Parse and render settings
 parse:
+  extensions:
+    - myst_parser
+    - sphinx_design
+    
   myst_enable_extensions:  # default extensions to enable in the myst parser. See https://myst-parser.readthedocs.io/en/latest/using/syntax-optional.html
     # - amsmath
     - colon_fence  # https://myst-parser.readthedocs.io/en/latest/syntax/optional.html#markdown-figures
@@ -32,15 +36,10 @@ parse:
     #  - substitution
     - tasklist
     #  - sphinx_subfigure
+    - sphinx_design
   #  myst_url_schemes: [mailto, http, https] # URI schemes that will be recognised as external URLs in Markdown links
   #  myst_dmath_double_inline: true  # Allow display math ($$) within an inline context
-
-#######################################################################################
-# Try to add extensions
-  extensions:
-    - sphinx_panels
     
-
 #######################################################################################
 # HTML-specific settings
 html:
