@@ -10,7 +10,7 @@ Algorithm Grid, by Christine Shields
 :::
 
 
-::::{tab-set} Algorithms
+::::{tab-set}
 
 :::{tab-item} Brands et al
 | Developer | Type | Geometry Req. | Threshold Req. | Temporal Req. | Region | DOI/Reference |
