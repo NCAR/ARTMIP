@@ -37,7 +37,7 @@ parse:
 
 #######################################################################################
 # Try to add extensions
-extensions:
+  extensions:
     - sphinx_panels
     
 
