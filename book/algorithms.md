@@ -93,14 +93,17 @@ ARTMIP Tier1 catalogues, figure creation C.Shields (Supplemental figure S3 Shiel
 :::
 
 
-.. tabbed:: Tab 1
+::::{tab-set}
 
-  Tab 1 content
+:::{tab-item} Label1
+Content 1
+:::
 
-.. tabbed:: Tab 2
+:::{tab-item} Label2
+Content 2
+:::
 
-  Tab 2 content
-
+::::
 
 
 
