@@ -9,8 +9,9 @@ Listed algorithms (A1, A2, etc.) have submitted catalogues for Tier 1. Algorithm
 Algorithm Grid, by Christine Shields
 :::
 
+:::{card} Algorithms
 
-::::{tab-set}
+::::{tab-set} Algorithms
 
 :::{tab-item} Brands et al
 | Developer | Type | Geometry Req. | Threshold Req. | Temporal Req. | Region | DOI/Reference |
@@ -218,6 +219,7 @@ Algorithm Grid, by Christine Shields
 
 ::::
 
+:::
 
 <!---
 :::{table} Algorithms
