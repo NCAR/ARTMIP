@@ -107,6 +107,71 @@ ARTMIP Tier1 catalogues, figure creation C.Shields (Supplemental figure S3 Shiel
 | Gershunov et al<sup>b</sup> | Condition and Track | <details> <summary></summary> >= 1500km long </details> | <details> <summary></summary> Absolute: 250kgm<sup>-1</sup>s<sup>-1</sup> IVT<br>1.5cm IWV </details> | Time stitching<br>-18 hours (3 time steps for 6 hourly data) | Western U.S. | [10.1002/2017GL074175](https://doi.org/10.1002/2017GL074175) | 
 :::
 
+:::{tab-item} Test
+| Developer | Type | Geometry Req. | Threshold Req. | Temporal Req. | Region | DOI/Reference |
+| --------- | ---- | ------------- | -------------- | ------------- | ------ | ------------- |
+:::
+
+:::{tab-item} Test
+| Developer | Type | Geometry Req. | Threshold Req. | Temporal Req. | Region | DOI/Reference |
+| --------- | ---- | ------------- | -------------- | ------------- | ------ | ------------- |
+:::
+
+:::{tab-item} Test
+| Developer | Type | Geometry Req. | Threshold Req. | Temporal Req. | Region | DOI/Reference |
+| --------- | ---- | ------------- | -------------- | ------------- | ------ | ------------- |
+:::
+
+:::{tab-item} Test
+| Developer | Type | Geometry Req. | Threshold Req. | Temporal Req. | Region | DOI/Reference |
+| --------- | ---- | ------------- | -------------- | ------------- | ------ | ------------- |
+:::
+
+:::{tab-item} Test
+| Developer | Type | Geometry Req. | Threshold Req. | Temporal Req. | Region | DOI/Reference |
+| --------- | ---- | ------------- | -------------- | ------------- | ------ | ------------- |
+:::
+
+:::{tab-item} Test
+| Developer | Type | Geometry Req. | Threshold Req. | Temporal Req. | Region | DOI/Reference |
+| --------- | ---- | ------------- | -------------- | ------------- | ------ | ------------- |
+:::
+
+:::{tab-item} Test
+| Developer | Type | Geometry Req. | Threshold Req. | Temporal Req. | Region | DOI/Reference |
+| --------- | ---- | ------------- | -------------- | ------------- | ------ | ------------- |
+:::
+
+:::{tab-item} Test
+| Developer | Type | Geometry Req. | Threshold Req. | Temporal Req. | Region | DOI/Reference |
+| --------- | ---- | ------------- | -------------- | ------------- | ------ | ------------- |
+:::
+
+:::{tab-item} Test
+| Developer | Type | Geometry Req. | Threshold Req. | Temporal Req. | Region | DOI/Reference |
+| --------- | ---- | ------------- | -------------- | ------------- | ------ | ------------- |
+:::
+
+:::{tab-item} Test
+| Developer | Type | Geometry Req. | Threshold Req. | Temporal Req. | Region | DOI/Reference |
+| --------- | ---- | ------------- | -------------- | ------------- | ------ | ------------- |
+:::
+
+:::{tab-item} Test
+| Developer | Type | Geometry Req. | Threshold Req. | Temporal Req. | Region | DOI/Reference |
+| --------- | ---- | ------------- | -------------- | ------------- | ------ | ------------- |
+:::
+
+:::{tab-item} Test
+| Developer | Type | Geometry Req. | Threshold Req. | Temporal Req. | Region | DOI/Reference |
+| --------- | ---- | ------------- | -------------- | ------------- | ------ | ------------- |
+:::
+
+:::{tab-item} Test
+| Developer | Type | Geometry Req. | Threshold Req. | Temporal Req. | Region | DOI/Reference |
+| --------- | ---- | ------------- | -------------- | ------------- | ------ | ------------- |
+:::
+
 ::::
 
 
