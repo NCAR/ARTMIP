@@ -161,6 +161,33 @@ ARTMIP Tier1 catalogues, figure creation C.Shields (Supplemental figure S3 Shiel
 :::
 
 
+
+
+<div class="cbCollapseRow">
+  <h2>Sample 1</h2>
+</div>
+<button class="cbCollapse"></button>
+<div class="content">
+  <p>Lorem ipsum dolor sit amet</p>
+</div>
+
+<button class="cbCollapse"></button>
+<div class="content">
+  <p>Lorem ipsum dolor sit amet</p>
+</div>
+
+
+<div class="cbCollapseRow">
+  <h2>Sample 3</h2>
+</div>
+<button class="cbCollapse"></button>
+<div class="content">
+  <p>Lorem ipsum dolor sit amet</p>
+</div>
+
+
+
+<!---
 <div class="clearfix"></div>
 <br /><br />
 
