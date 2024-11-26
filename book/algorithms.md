@@ -104,72 +104,194 @@ ARTMIP Tier1 catalogues, figure creation C.Shields (Supplemental figure S3 Shiel
 :::{tab-item} Gershunov et al<sup>b</sup>
 | Developer | Type | Geometry Req. | Threshold Req. | Temporal Req. | Region | DOI/Reference |
 | --------- | ---- | ------------- | -------------- | ------------- | ------ | ------------- |
-| Gershunov et al<sup>b</sup> | Condition and Track | <details> <summary></summary> >= 1500km long </details> | <details> <summary></summary> Absolute: 250kgm<sup>-1</sup>s<sup>-1</sup> IVT<br>1.5cm IWV </details> | Time stitching<br>-18 hours (3 time steps for 6 hourly data) | Western U.S. | [10.1002/2017GL074175](https://doi.org/10.1002/2017GL074175) | 
+| Gershunov et al<sup>b</sup> | Condition and Track | >= 1500km long | Absolute: 250kgm<sup>-1</sup>s<sup>-1</sup> IVT<br>1.5cm IWV | Time stitching<br>-18 hours (3 time steps for 6 hourly data) | Western U.S. | [10.1002/2017GL074175](https://doi.org/10.1002/2017GL074175) | 
 :::
 
 :::{tab-item} Test
 | Developer | Type | Geometry Req. | Threshold Req. | Temporal Req. | Region | DOI/Reference |
 | --------- | ---- | ------------- | -------------- | ------------- | ------ | ------------- |
+| Goldenson<sup>b</sup> | Condition | > 2000km long and < 1000km wide<br>Object recognition | Absolute: 2cm IWV | Time slice | Western U.S. | [10.1175/JCLI-D-18-0268.1](https://doi.org/10.1175/JCLI-D-18-0268.1) | 
+| Gorodetskaya et al | Condition | IWV > thresh. at the coast (within defined longitudinal sector) and continuously at all latitudes for ≥ 20° equatorward (length > 2000 km), within ± 15° longitude sector (width of 30° ~ 1000 km at 70°S; requirement of meridional extent) | Relative: <sup>a</sup>ZN using IWV adjusted for reduced tropospheric moisture holding capacity at low temperatures<br>(AR<sub>coeff</sub> = 0.2) | Time slice | Polar (East Antarctica) | [10.1002/2014GL060881](https://doi.org/10.1002/2014GL060881) |
 :::
 
 :::{tab-item} Test
 | Developer | Type | Geometry Req. | Threshold Req. | Temporal Req. | Region | DOI/Reference |
 | --------- | ---- | ------------- | -------------- | ------------- | ------ | ------------- |
+| Guan and Waliser<sup>bc</sup> | Condition | Length >2000km and length width ratio >2; Coherent IVT direction within 45° of AR shape orientation and with a poleward component | Relative: 85<sup>th</sup> percentile IVT; Absolute min requirement designed for polar locations: 100kgm<sup>-1</sup>s<sup>-1</sup> IVT | Time slice | Global | [10.1002/2015JD024257](https://doi.org/10.1002/2015JD024257)<br>[10.1175/JHM-D-17-0114.1](https://doi.org/10.1175/JHM-D-17-0114.1)<br>[tracker code](https://dataverse.ucla.edu/dataverse/ar) | 
 :::
 
 :::{tab-item} Test
 | Developer | Type | Geometry Req. | Threshold Req. | Temporal Req. | Region | DOI/Reference |
 | --------- | ---- | ------------- | -------------- | ------------- | ------ | ------------- |
+| Hagos et al.<sup>b</sup> (PNNL1) | Condition | Dependent on threshold requirements to determine footprint;<br>> 2000 km long and < 1000 km wide | Absolute: 2cm IWV 10ms<sup>-1</sup> wind speed | Time slice | Western U.S. | [10.1175/JCLI-D-14-00567.1](https://doi.org/10.1175/JCLI-D-14-00567.1) | 
 :::
 
 :::{tab-item} Test
 | Developer | Type | Geometry Req. | Threshold Req. | Temporal Req. | Region | DOI/Reference |
 | --------- | ---- | ------------- | -------------- | ------------- | ------ | ------------- |
+| Kashinath et al.<sup>f</sup> (ClimateNet) | Condition | Deep learning based segmentation. Trained on ~500 expert labelled images | Threshold free; input fields are IWV, U850, V850, SLP | Time slice | Global | [10.5194/gmd-2020-72](https://doi.org/10.5194/gmd-2020-72) | 
 :::
 
 :::{tab-item} Test
 | Developer | Type | Geometry Req. | Threshold Req. | Temporal Req. | Region | DOI/Reference |
 | --------- | ---- | ------------- | -------------- | ------------- | ------ | ------------- |
+| Krinitsky et al. (SAIL) | Condition | Geometry reqirements Length >= 250km; Length-to-width >=5; Length is estimated along the "ridge" taking IVT into account. Width is the median of widths estimated in each point of AR ridge. | Relative: IVT-IVT_RM >_ 100. IVT_RM is climatological IVT running mean with 20-day windows | Time slice | Global |[10.1088/1755-1315/606/1/012011](https://iopscience.iop.org/article/10.1088/1755-1315/606/1/012011/meta)| 
 :::
 
 :::{tab-item} Test
 | Developer | Type | Geometry Req. | Threshold Req. | Temporal Req. | Region | DOI/Reference |
 | --------- | ---- | ------------- | -------------- | ------------- | ------ | ------------- |
+| Lavers et al. | Condition | 4.5° latitude movement allowed | Relative: ~85<sup>th</sup> percentile determined by evaluation of reanalysis products | Time slice | UK, Western US | [10.1029/2012JD018027](https://doi.org/10.1029/2012JD018027) |
 :::
 
 :::{tab-item} Test
 | Developer | Type | Geometry Req. | Threshold Req. | Temporal Req. | Region | DOI/Reference |
 | --------- | ---- | ------------- | -------------- | ------------- | ------ | ------------- |
+| Leung and Qianb (PNNL2) | Track |  Moisture flux has an eastward or northward component at landfall; tracks originating north of 25N and east of 140W are rejected | Absolute: mean IVT along track > 500 kgm<sup>-1</sup>s<sup>-1</sup> and IVT at landfall > 200 kgm<sup>-1</sup>s<sup>-1</sup>; grid points up to 500km to the north and south along the AR tracks are included as part of the AR if their mean IVT > 300 kgm<sup>-1</sup>s<sup>-1</sup> | Time slice | Western U.S. | [10.1029/2008GL036445](https://doi.org/10.1029/2008GL036445) | 
 :::
 
 :::{tab-item} Test
 | Developer | Type | Geometry Req. | Threshold Req. | Temporal Req. | Region | DOI/Reference |
 | --------- | ---- | ------------- | -------------- | ------------- | ------ | ------------- |
+| Lora et al.<sup>b</sup> | Condition | Length >= 2000km | <b>v1: Relative</b> : IVT 100kgm<sup>-1</sup>s<sup>-1</sup> above climatological area means for N. Pacific; <b>v2:Relative/Absolute</b> : IVT 225 kgm<sup>-1</sup>s<sup>-1</sup> above time/latitude dependent threshold using 30-day running mean and zonal average of IWV | Time slice | v1 Global (A6)<br>v1 North Pacific (A7)<br>v2 (Global) | [10.1002/2016GL071541](https://doi.org/10.1002/2016GL071541)<br>[10.1016/j.epsl.2020.116293](https://doi.org/10.1016/j.epsl.2020.116293) | 
 :::
 
 :::{tab-item} Test
 | Developer | Type | Geometry Req. | Threshold Req. | Temporal Req. | Region | DOI/Reference |
 | --------- | ---- | ------------- | -------------- | ------------- | ------ | ------------- |
+| Mahesh and O'Brien (CASCADE) | Condition | Convolutional neural network to replicate ARTMIP mean | Threshold-free; IVT(A25) and IWV (A26) is the input, output is probability of AR presence | Time slice | Global | Experimental | 
 :::
 
 :::{tab-item} Test
 | Developer | Type | Geometry Req. | Threshold Req. | Temporal Req. | Region | DOI/Reference |
 | --------- | ---- | ------------- | -------------- | ------------- | ------ | ------------- |
+| Mahoney et al. | Condition and Track | Length >= 1500km, Width <=1500km | Absolute: ARDT-IVT 500kgm<sup>-1</sup>s<sup>-1</sup> for SEUS. | See Wick | Southeast U.S. | [10.1175/MWR-D-15-0279.1](https://doi.org/10.1175/MWR-D-15-0279.1)<br>(uses Wick) | 
 :::
 
 :::{tab-item} Test
 | Developer | Type | Geometry Req. | Threshold Req. | Temporal Req. | Region | DOI/Reference |
 | --------- | ---- | ------------- | -------------- | ------------- | ------ | ------------- |
+| Mattingly | Condition | Length >= 1500km; Length to width ratio > 1.5 | Relative: 85<sup>th</sup> percentile IVT (relative to 31 day centered climatological mean); Absolute min requirement designed for polar locations: 150 kg/m/s IVT: vIVT must be poleward unless feature is poleward of 66.56 N/S (Arctic/Antarctic Circle) | Time slice | Global coverage poleward of 10N/S; parameters tuned for polar focus (allows non poleward vIVT for features poleward of 66.56 N/S | [10.1029/2018JD028714](https://doi.org/10.1029/2018JD028714) | 
 :::
 
 :::{tab-item} Test
 | Developer | Type | Geometry Req. | Threshold Req. | Temporal Req. | Region | DOI/Reference |
 | --------- | ---- | ------------- | -------------- | ------------- | ------ | ------------- |
+| Mundhenk | Condition | >1400km length, aspect ratio 1:4, lat limit >16N/S, axis orientation based on IVT | Relative IVT percentiles and/or anomalies both temporal and spatial | Time slice | Global | [10.1175/JCLI-D-15-0655.1](https://doi.org/10.1175/JCLI-D-15-0655.1) | 
 :::
 
 :::{tab-item} Test
 | Developer | Type | Geometry Req. | Threshold Req. | Temporal Req. | Region | DOI/Reference |
 | --------- | ---- | ------------- | -------------- | ------------- | ------ | ------------- |
+| Muszynski et al. (ML_TDA) | Condition | Topological analysis and machine learned | Threshold-free | N/A | Western U.S., adaptable to other regions | [10.5194/gmd-12-613-2019](https://doi.org/10.5194/gmd-12-613-2019) | 
+:::
+
+:::{tab-item} Test
+| Developer | Type | Geometry Req. | Threshold Req. | Temporal Req. | Region | DOI/Reference |
+| --------- | ---- | ------------- | -------------- | ------------- | ------ | ------------- |
+| Nellikkattil et al. (SCAFET) | Condition and Track | Local geometric shape | Threshold free on IVT but precipitation > 1 mm/day | Time slice | Global | In preparation | 
+:::
+
+:::{tab-item} Test
+| Developer | Type | Geometry Req. | Threshold Req. | Temporal Req. | Region | DOI/Reference |
+| --------- | ---- | ------------- | -------------- | ------------- | ------ | ------------- |
+| O'Brien et al. (teca_bard_v1.01 = CASCADE_bard_v1) | Condition | <sup>e</sup>Minimum area | <sup>e</sup>Relative threshold (based on spatial percentile for each timestep). An inverted Gaussian filter is applied at the equator to damp out the ITCZ | Time slice | Global | [10.5194/gmd-13-6131-2020](https://doi.org/10.5194/gmd-13-6131-2020) | 
+:::
+
+:::{tab-item} Test
+| Developer | Type | Geometry Req. | Threshold Req. | Temporal Req. | Region | DOI/Reference |
+| --------- | ---- | ------------- | -------------- | ------------- | ------ | ------------- |
+| PanLu | Condition | 1) Length>2000km; <br>2) Length-Width ratio>2; <br>3) sum of turning angle<360; <br>4) percentage within tropics < 95%; <br>5) 50% < percentage within tropics < 95% or percentage with IVT direction smaller than 15 degrees <50% | Two relative thresholds. Local threshold: smoothed 85% quantile IVT field using the Gaussian kernel density smoothing technique; regional threshold: the 80% quantile of IVT for all grids within 80N and 80S. | Time stitching: last for at least 18 hours | East Asia & Global | [10.1029/2018WR024407](https://doi.org/10.1029/2018WR024407)<br>[10.1029/2020GL089477](https://doi.org/10.1029/2020GL089477) | 
+:::
+
+:::{tab-item} Test
+| Developer | Type | Geometry Req. | Threshold Req. | Temporal Req. | Region | DOI/Reference |
+| --------- | ---- | ------------- | -------------- | ------------- | ------ | ------------- |
+| Payne and Magnusdottir<sup>bc</sup> | Condition | Length > 1200km, landfalling only | Relative: 85<sup>th</sup> Percentile of maximum IVT (1000-500mb) Absolute: IWV >2cm, 850mb wind speed > 10m/s | Time stitching (12-hour minimum) | Western U.S. | [10.1002/2015JD023586](https://doi.org/10.1002/2015JD023586)<br>[10.1002/2016JD025549](https://doi.org/10.1002/2016JD025549) | 
+:::
+
+:::{tab-item} Test
+| Developer | Type | Geometry Req. | Threshold Req. | Temporal Req. | Region | DOI/Reference |
+| --------- | ---- | ------------- | -------------- | ------------- | ------ | ------------- |
+| Ralph et al. | Condition | Length >= 2000km, Width <= 1000km | Absolute: IWV 2cm | Time slice | Western U.S. | [10.1175/1520-0493(2004)132](https://doi.org/10.1175/1520-0493(2004)132%3C1721:SACAOO%3E2.0.CO;2) | 
+:::
+
+:::{tab-item} Test
+| Developer | Type | Geometry Req. | Threshold Req. | Temporal Req. | Region | DOI/Reference |
+| --------- | ---- | ------------- | -------------- | ------------- | ------ | ------------- |
+| Ramos et al.<sup>bc</sup>; Blamey et al.<sup>*</sup> | Condition | Detected for reference meridians, length >=1500km (1800km<sup>*</sup>), latitudinal movement <4.5°N | Relative: IVT 85th percentile (1000-300mb) | Time slice,<br>but 18-hour minimum for persistent ARs | Western Europe, South Africa<sup>*</sup>, adaptable to other regions | [10.5194/esd-7-371-2016](https://doi.org/10.5194/esd-7-371-2016)<br>[10.1175/JHM-D-17-0111.1](https://doi.org/10.1175/JHM-D-17-0111.1) | 
+:::
+
+:::{tab-item} Test
+| Developer | Type | Geometry Req. | Threshold Req. | Temporal Req. | Region | DOI/Reference |
+| --------- | ---- | ------------- | -------------- | ------------- | ------ | ------------- |
+| Reid et al. | Condition | Length > 2000km; Length-Width ratio > 2; orientation angle >10° | = Absolute. IVT > 250 kg/m/s; IVT > 500 kg/m/s | Time slice | Global | [10.1029/2020JD032897](https://doi.org/10.1029/2020JD032897) | 
+:::
+
+:::{tab-item} Test
+| Developer | Type | Geometry Req. | Threshold Req. | Temporal Req. | Region | DOI/Reference |
+| --------- | ---- | ------------- | -------------- | ------------- | ------ | ------------- |
+| Rutz et al.<sup>b</sup> | Condition | Length >= 2000km | Absolute: IVT (surface to 100mb) = 250kgm<sup>-1</sup>s<sup>-1</sup> | Time slice | Global, low value on tropics | [10.1175/MWR-D-13-00168.1](https://doi.org/10.1175/MWR-D-13-00168.1) | 
+:::
+
+:::{tab-item} Test
+| Developer | Type | Geometry Req. | Threshold Req. | Temporal Req. | Region | DOI/Reference |
+| --------- | ---- | ------------- | -------------- | ------------- | ------ | ------------- |
+| Shearer et al.(AR-CONNECT) | Track | Object identification | Absolute: Absolute: IVT thresholds used = 700 for seeding, 300, for region growing | Time stitching, minimum 24-hour period | Global<br>weighted centroid of AR event must be outside tropics (23.25 N - 23.25 S) | [10.1029/2020JD033425](https://doi.org/10.1029/2020JD033425) | 
+:::
+
+:::{tab-item} Test
+| Developer | Type | Geometry Req. | Threshold Req. | Temporal Req. | Region | DOI/Reference |
+| --------- | ---- | ------------- | -------------- | ------------- | ------ | ------------- |
+| Sellars et al.<sup>b</sup> (CONNECT) | Track | Object identification | Absolute: IVT, thresholds tested = 300 (A11), 500 (A12), 700 (A13) kgm<sup>-1</sup>s<sup>-1</sup> | Time stitching, minimum 24-hour period | Global | [10.1002/2013EO320001](https://doi.org/10.1002/2013EO320001)<br>[10.1175/JHM-D-14-0101.1](https://doi.org/10.1175/JHM-D-14-0101.1) | 
+:::
+
+:::{tab-item} Test
+| Developer | Type | Geometry Req. | Threshold Req. | Temporal Req. | Region | DOI/Reference |
+| --------- | ---- | ------------- | -------------- | ------------- | ------ | ------------- |
+| Shields and Kiehl<sup>b</sup> | Condition | Ratio 2:1, length to width grid points min 200km length; 850mb wind direction from specified regional quadrants, landfalling only | Relative: <sup>a</sup>ZN moisture threshold using IWV; Wind threshold defined by regional 85<sup>th</sup> percentile 850mb wind magnitudes | Time slice | Western U.S. Iberian Peninsula, UK, adaptable but regional specific | [10.1002/2016GL069476](https://doi.org/10.1002/2016GL069476)<br>[10.1002/2016GL070470](https://doi.org/10.1002/2016GL070470) | 
+:::
+
+:::{tab-item} Test
+| Developer | Type | Geometry Req. | Threshold Req. | Temporal Req. | Region | DOI/Reference |
+| --------- | ---- | ------------- | -------------- | ------------- | ------ | ------------- |
+| TEMPEST<sup>b</sup>	 | Track | <sup>d</sup>Laplacian IVT thresholds most effective for widths >1000km; cluster size minimum = 120000km<sup>2</sup> | dIVT >=250kgm<sup>-1</sup>s<sup>-1</sup> | Time stitching | Global, but latitude >=15° | [10.1029/2020JD033421](https://doi.org/10.1029/2020JD033421)<br>[10.5194/gmd-10-1069-2017](https://doi.org/10.5194/gmd-10-1069-2017)<br>[10.1029/2019JD031977](https://doi.org/10.1029/2019JD031977)<br>[10.1029/2020JD033421](https://doi.org/10.1029/2020JD033421) | 
+:::
+
+:::{tab-item} Test
+| Developer | Type | Geometry Req. | Threshold Req. | Temporal Req. | Region | DOI/Reference |
+| --------- | ---- | ------------- | -------------- | ------------- | ------ | ------------- |
+| Viale et al. | Condition | Length >2000km (>1500km north of 35°S) and length-width ratio>2; Coherent IVT direction within 45° of AR mean direction and with a poleward component | Relative: 85<sup>th</sup> percentile IVT;<br>Absolute min requirement designed for subtropical locations: 100kgm<sup>-1</sup>s<sup>-1</sup> IVT; a frontal zone intercept or locate south (up to 50 km), i.e., mag. of the horizontal gradient of the 1000-850hPa thickness > 5 m 100 km<sup>-1</sup>) | Time slice | Southwestern South America | [10.1175/JHM-D-18-0006.1](https://doi.org/10.1175/JHM-D-18-0006.1) | 
+:::
+
+:::{tab-item} Test
+| Developer | Type | Geometry Req. | Threshold Req. | Temporal Req. | Region | DOI/Reference |
+| --------- | ---- | ------------- | -------------- | ------------- | ------ | ------------- |
+| Walton et al. | Condition and Track | Length >= 2000 km | Relative: IVT > 250 kg/m/s + daily IVT climatology | Time stitching, minimum 24-hour period | Western U.S. | Experimental | 
+:::
+
+:::{tab-item} Test
+| Developer | Type | Geometry Req. | Threshold Req. | Temporal Req. | Region | DOI/Reference |
+| --------- | ---- | ------------- | -------------- | ------------- | ------ | ------------- |
+| Wick et al. | Condition and Track | >=2000km long, <= 1000km wide object identification involving shape and axis | Absolute: ARDT-IWV >2cm | Time slice and stitching | Regional | [10.1109/TGRS.2012.2211024](https://doi.org/10.1109/TGRS.2012.2211024) |
+:::
+
+:::{tab-item} Test
+| Developer | Type | Geometry Req. | Threshold Req. | Temporal Req. | Region | DOI/Reference |
+| --------- | ---- | ------------- | -------------- | ------------- | ------ | ------------- |
+| Wille et al. | Condition | Length > 20° (2000 km) equatorward with no breaks. Defined as AR landfall if AR shape overlaps a land grid cell. | Relative > 98<sup>th</sup> percentile IWV(A28) or vIVT(29) based on monthly climatological means | Time slice | Polar: Antarctic(37.5°-78°S; Arctic(37.5°-80°N | [Antarctic 10.1029/2020JD033788](https://doi.org/10.1029/2020JD033788) Arctic: Experimental | 
+:::
+
+:::{tab-item} Test
+| Developer | Type | Geometry Req. | Threshold Req. | Temporal Req. | Region | DOI/Reference |
+| --------- | ---- | ------------- | -------------- | ------------- | ------ | ------------- |
+| Xu et al. (IPART) | Condition and Track | Length >= 1500 km, area in range [50&#42;10<sup>4</sup>, 1800&#42;10<sup>4</sup> km<sup>2</sup>], L/W ratio>=2, isoperimetric quotient < 0.7, centroid latitude > 20 N, < 80 N. | Threshold free;Select transient IVT plumes standing out from a temporal scale of 8 days;Spatial scale of ~ 1000 km | Time slice and stitching | Northern Hemisphere | [10.5194/gmd-13-4639-2020](https://doi.org/10.5194/gmd-13-4639-2020) | 
+:::
+
+:::{tab-item} Test
+| Developer | Type | Geometry Req. | Threshold Req. | Temporal Req. | Region | DOI/Reference |
+| --------- | ---- | ------------- | -------------- | ------------- | ------ | ------------- |
+| Zhang, Tung, & Cleveland<sup>g</sup> (Purdue) | Multifactorial Conditions and Track | (Length >= 1500, 1800, OR 2000 km) AND (Length/average Width >= 2) | Relative: (75<sup>th</sup>, 85<sup>th</sup>, OR 95<sup>th</sup> monthly percentile applied at every gridpoint, in ENSO neutral and weak ENSO years) (IVT, IWV, OR IVT+IWV) | (Persistent Duration >=12, 18, OR 24 hours) AND (Break < 24 hours) | Regional: West-Coast landfalling region: located between 33-48.5N and 124.375-114.375W; Midwest region is between 37-47N and 94-84W | [10.1029/2020JD033667](https://doi.org/10.1029/2020JD033667) |
 :::
 
 ::::
