@@ -9,7 +9,6 @@ Listed algorithms (A1, A2, etc.) have submitted catalogues for Tier 1. Algorithm
 Algorithm Grid, by Christine Shields
 :::
 
-:::{card} Algorithms
 
 ::::{tab-set} Algorithms
 
@@ -229,7 +228,6 @@ Algorithm Grid, by Christine Shields
 
 ::::
 
-:::
 
 <!---
 :::{table} Algorithms
