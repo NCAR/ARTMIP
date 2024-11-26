@@ -45,6 +45,7 @@ VIEW SATELLITE IMAGERY SOURCE
 
 :::{list-table}
 :widths: 50 50
+:enumerated: False
 
 *   - :::{figure-md}
       :align: center
