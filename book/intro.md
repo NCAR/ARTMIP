@@ -45,18 +45,18 @@ VIEW SATELLITE IMAGERY SOURCE
 
 :::{list-table}
 :widths: 50 50
-:enumerated: False
+:enumerated: "False"
 
 *   - :::{figure-md}
       :align: center
-      :enumerated: False
+      :enumerated: "False"
       ![A satellite image of an Atmospheric River impacting the UK](images/ARTMIP_2014Jan24.UK_.flooding.jpg)
       
       Atmospheric River event January 24 05 GMT. One event among many impacting the UK during the winter of 2013/2014.
       :::
     - :::{figure-md}
       :align: center
-      :enumerated: False
+      :enumerated: "False"
       ![A satellite image of an Atmospheric River impacting Northern California](images/ARTMIP_2017Feb10.OrovilleDamCrisis-cropped.jpg)
       
       Atmospheric River event February 10 00 GMT. The Oroville Dam Crisis, in northern California, occurred during this event in 2017.
