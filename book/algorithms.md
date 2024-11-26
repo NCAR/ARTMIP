@@ -111,6 +111,11 @@ ARTMIP Tier1 catalogues, figure creation C.Shields (Supplemental figure S3 Shiel
 | Developer | Type | Geometry Req. | Threshold Req. | Temporal Req. | Region | DOI/Reference |
 | --------- | ---- | ------------- | -------------- | ------------- | ------ | ------------- |
 | Goldenson<sup>b</sup> | Condition | > 2000km long and < 1000km wide<br>Object recognition | Absolute: 2cm IWV | Time slice | Western U.S. | [10.1175/JCLI-D-18-0268.1](https://doi.org/10.1175/JCLI-D-18-0268.1) | 
+:::
+
+:::{tab-item} Gorodetskaya et al
+| Developer | Type | Geometry Req. | Threshold Req. | Temporal Req. | Region | DOI/Reference |
+| --------- | ---- | ------------- | -------------- | ------------- | ------ | ------------- |
 | Gorodetskaya et al | Condition | IWV > thresh. at the coast (within defined longitudinal sector) and continuously at all latitudes for ≥ 20° equatorward (length > 2000 km), within ± 15° longitude sector (width of 30° ~ 1000 km at 70°S; requirement of meridional extent) | Relative: <sup>a</sup>ZN using IWV adjusted for reduced tropospheric moisture holding capacity at low temperatures<br>(AR<sub>coeff</sub> = 0.2) | Time slice | Polar (East Antarctica) | [10.1002/2014GL060881](https://doi.org/10.1002/2014GL060881) |
 :::
 
