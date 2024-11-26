@@ -36,6 +36,12 @@ parse:
   #  myst_dmath_double_inline: true  # Allow display math ($$) within an inline context
 
 #######################################################################################
+# Try to add extensions
+extensions:
+    - sphinx_panels
+    
+
+#######################################################################################
 # HTML-specific settings
 html:
   # Add GitHub buttons to your book
