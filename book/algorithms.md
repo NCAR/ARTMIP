@@ -216,6 +216,8 @@ Algorithm Grid, by Christine Shields
 | Zhang, Tung, & Cleveland<sup>g</sup> (Purdue) | Multifactorial Conditions and Track | (Length >= 1500, 1800, OR 2000 km) AND (Length/average Width >= 2) | Relative: (75<sup>th</sup>, 85<sup>th</sup>, OR 95<sup>th</sup> monthly percentile applied at every gridpoint, in ENSO neutral and weak ENSO years) (IVT, IWV, OR IVT+IWV) | (Persistent Duration >=12, 18, OR 24 hours) AND (Break < 24 hours) | Regional: West-Coast landfalling region: located between 33-48.5N and 124.375-114.375W; Midwest region is between 37-47N and 94-84W | [10.1029/2020JD033667](https://doi.org/10.1029/2020JD033667) |
 :::
 
+::::
+
 <!--- A TEMPLATE
 
 :::{tab-item} ***TAB NAME***
@@ -226,7 +228,7 @@ Algorithm Grid, by Christine Shields
 
 \--->
 
-::::
+
 
 
 <!---
