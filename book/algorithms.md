@@ -10,6 +10,8 @@ Algorithm Grid, by Christine Shields
 :::
 
 
+:::{card} Alogrithms
+
 ::::{tab-set}
 
 :::{tab-item} Brands et al
@@ -217,6 +219,8 @@ Algorithm Grid, by Christine Shields
 :::
 
 ::::
+
+:::
 
 <!--- A TEMPLATE
 
