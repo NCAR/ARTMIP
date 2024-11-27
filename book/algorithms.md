@@ -10,7 +10,7 @@ Algorithm Grid, by Christine Shields
 :::
 
 
-:::{card} Alogrithms
+:::::{card} Alogrithms
 
 ::::{tab-set}
 
@@ -220,7 +220,7 @@ Algorithm Grid, by Christine Shields
 
 ::::
 
-:::
+:::::
 
 <!--- A TEMPLATE
 
