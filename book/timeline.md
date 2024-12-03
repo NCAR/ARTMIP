@@ -5,7 +5,7 @@
 :align: center
 | Completed/<br>In-Progress | Target Date | Activity |
 | :---: | ------------- | ------------- |
-|          | Feb 21<sup>st</sup> 2024, 10am PST/1pm EST** | Future Directions Telecom |
+|          | Feb 21<sup>st</sup> 2024, 10am PST/1pm EST | Future Directions Telecom |
 |          | On-going | [Future ARTMIP directions survey](https://forms.gle/Fai2qPAyiaxYxvSX9) |
 |          | On-going | Tier 1 and Tier 2 Analysis and Scientific Papers |
 | &#10003; | **May 2022** | **Tier 2 Paleoclimate Catalogues Due** |
