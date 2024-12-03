@@ -14,7 +14,7 @@ logo                        : images/ARTMIP_logo.jpg  # A path to the book logo
 # Whether to reexecute notebooks on each build.
 # See https://jupyterbook.org/content/execute.html
 execute:
-  execute_notebooks: auto
+  execute_notebooks: force
 
 #######################################################################################
 # Parse and render settings
