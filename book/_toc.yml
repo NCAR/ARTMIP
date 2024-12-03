@@ -8,8 +8,6 @@ chapters:
   title: Program Goals
 - file: algorithms
   title: Algorithms
-- file: algorithms-test
-  title: Testing
 - file: experimental-design
   title: Experimental Design
 - file: timeline
