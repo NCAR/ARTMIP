@@ -8,7 +8,7 @@ chapters:
   title: Program Goals
 - file: algorithms
   title: Algorithms
-- file: alogrithms-test
+- file: algorithms-test
   title: Testing
 - file: experimental-design
   title: Experimental Design
