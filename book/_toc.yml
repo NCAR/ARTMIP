@@ -9,7 +9,7 @@ chapters:
 - file: algorithms
   title: Algorithms
 - file: alogrithms-test
-  title: Testing (Not for public)
+  title: Testing
 - file: experimental-design
   title: Experimental Design
 - file: timeline
