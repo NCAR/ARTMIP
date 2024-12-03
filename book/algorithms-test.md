@@ -17,7 +17,8 @@ Algorithm Grid, by Christine Shields
 
 ::::::{card} Alogrithms
 
-:::::{tab-set}
+:::::{tab-set} Sort By Name
+
 ::::{tab-item} Sort By Name
 
 :::{tab-item} Brands et al
