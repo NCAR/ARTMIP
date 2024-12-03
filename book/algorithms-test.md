@@ -15,9 +15,10 @@ Algorithm Grid, by Christine Shields
 :::
 
 
-:::::{card} Alogrithms
+::::::{card} Alogrithms
 
-::::{tab-set} Sort By Name
+:::::{tab-set}
+::::{tab-item} Sort By Name
 
 :::{tab-item} Brands et al
 | Developer | Type | Geometry Req. | Threshold Req. | Temporal Req. | Region | DOI/Reference |
@@ -225,7 +226,7 @@ Algorithm Grid, by Christine Shields
 
 ::::
 
-::::{tab-set} Sort By Type
+::::{tab-item} Sort By Type
 
 :::{tab-item} Brands et al
 | Developer    | Type      | Geometry Requirement   | Threshold Requirement                                                                                                                                                                                                                                                                                                                                                              | Temporal Requirement   | Region                        | DOI/Reference                                                          |
@@ -434,6 +435,7 @@ Algorithm Grid, by Christine Shields
 ::::
 
 :::::
+::::::
 
 
 <sup>a</sup>ZN relative threshold formula: <math>Q >= Q<sub>zonal_mean</sub> + AR<sub>coeff</sub> (Q<sub>zonalmax</sub> – Q<sub>zonamean</sub>)</math> where Q = moisture variable, either IVT (kg m<sup>-1</sup>s<sup>-1</sup>) or IWV(cm). AR<sub>coeff</sub> = 0.3 except where noted (Zhu and Newell, 1998). The Gorodetskaya method uses Qsat, where Qsat represents maximum moisture holding capacity calculated based on temperature (Clausius-Clapeyron), an important distinction for polar ARs. Additional analysis on the ZN method can be found in Newman et al., 201
