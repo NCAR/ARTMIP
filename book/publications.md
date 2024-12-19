@@ -5,6 +5,9 @@
 
  
 ### 2024
+
+Scholz, S.R., Lora, J.M. Atmospheric rivers cause warm winters and extreme heat events. Nature 636, 640–646 (2024). <https://doi.org/10.1038/s41586-024-08238-7>
+
 Reiher, C. A., and A. C. Winters, 2024: Discriminating Factors that Favor the Development of High-Impact Weather Events in Association with Polar–Subtropical Jet Superpositions. Mon. Wea. Rev., 152, 909–924, <https://doi.org/10.1175/MWR-D-23-0061.1>.
 
 Zhang, L., Zhao, Y., Cheng, T. F., & Lu, M. (2024). Future changes in global atmospheric rivers projected by CMIP6 models. Journal of Geophysical Research: Atmospheres, 129, e2023JD039359. <https://doi.org/10.1029/2023JD039359>.
