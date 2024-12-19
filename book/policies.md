@@ -1,5 +1,13 @@
-# Policies
+# Policies and Data Access
 Data Access and Policy for Catalogues, Citations, and Authorship
+
+---
+
+<strong>All ARTMIP datasets have moved to the NSF NCAR RDA as we are phasing away from the Climate Data Gateway.
+
+Note all DOI's remain valid and land on the general ARTMIP holdings.  The landing page is different for different DOIs, so check the "Related" datasets links to find the specific experiment.</strong>
+
+---
 
 ## Catalogue Data Access
 <ol type="1">
