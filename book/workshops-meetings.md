@@ -1,4 +1,16 @@
 # Workshops & Meetings
+
+---
+## Upcoming Events
+
+### ARTMIP Future Directions Telecon
+**Date**: Februrary 21<sup>st</sup>, 2025 1pm ET/ 10am PT
+
+**Goals**
+* Develop a roadmap for ARTMIP's role in for community and open science 
+* <i>Ideas?</i> Please fill out this [survey](https://forms.gle/Fai2qPAyiaxYxvSX9)
+
+---
 ## Past Events
 
 ### ARTMIP Tier2-Reanalysis/Paleo Telecon
