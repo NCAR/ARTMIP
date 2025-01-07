@@ -10,7 +10,7 @@ Algorithm Grid, by Christine Shields
 :::
 
 
-:::::{card} Alogrithms
+:::::{card} Alogrithms (Click a name to veiw the Alogrithm details)
 
 ::::{tab-set}
 
