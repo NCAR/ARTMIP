@@ -3,8 +3,8 @@
 ---
 ## Upcoming Events
 
-### ARTMIP Future Directions Telecon
-**Date**: Februrary 21<sup>st</sup>, 2025 1pm ET/ 10am PT
+### New ARTMIP Projects
+**Date**: TBD, see Future Directions Telecon Outcomes
 
 **Goals**
 * Develop a roadmap for ARTMIP's role in for community and open science 
@@ -12,6 +12,20 @@
 
 ---
 ## Past Events
+
+### ARTMIP Future Directions Telecon
+**Date**: Februrary 21<sup>st</sup> 2025
+
+**Goals**
+* Develop a roadmap for ARTMIP's role in for community and open science 
+* <i>Ideas?</i> Please fill out this [survey](https://forms.gle/Fai2qPAyiaxYxvSX9)
+
+**Outcomes**
+* Writing an ARTMIP Synthesis paper to summarize ARTMIP findings across experiements
+* Designing new experiments for S2S and Polar regions
+* Creating Github workflows
+* Discussion of extending Reanalysis catalogues, TBD
+
 
 ### ARTMIP Tier2-Reanalysis/Paleo Telecon
 **Date**: 12 March 2021
