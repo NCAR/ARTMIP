@@ -41,6 +41,9 @@ jobs:
         run: |
           jupyter-book build book
 
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
       # Upload the book's HTML as an artifact
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
