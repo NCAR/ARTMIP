@@ -42,11 +42,9 @@ jobs:
 
       # Upload the book's HTML as an artifact
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v4
+        uses: actions/upload-pages-artifact@v3
         with:
-          name: my-artifact-${{ matrix.runs-on }}
           path: "book/_build/html"
-          include-hidden-files: true
 
       # Deploy the book's HTML to GitHub Pages
       - name: Deploy to GitHub Pages
