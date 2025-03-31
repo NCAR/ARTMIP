@@ -8,6 +8,8 @@
 
 **Rush, W. D., Lora, J. M., Skinner, C. B., Menemenlis, S. A., Shields, C. A., Ullrich, P., O’Brien, T., A., Brands, S., Guan, B., Mattingly, K.S., McClenny, E., Nardi, K., Nellikkattil, A., Ramos A., Reid,  K.J., Shearer, E., Tomé, R., Wille, J.D., Leung, L.R., Ralph, F., M., Rutz, J.J., Wehner, M., Zhang, Z., Lu, M., Quagraine, K.T (2025). Atmospheric river detection under changing seasonality and mean-state climate: ARTMIP tier 2 paleoclimate experiments. Journal of Geophysical Research: Atmospheres, 130, e2024JD042222. <https://doi.org/10.1029/2024JD042222>**
 
+Quagraine, K. T., O’Brien, T. A., & Zhou, Y. (2025). Similarities in meteorological composites among different atmospheric river detection tools during landfall over western coastal North America. Journal of Geophysical Research: Atmospheres, 130, e2024JD042163. <https://doi.org/10.1029/2024JD042163>.
+
 Henny, L., and K. Kim, 2025: The Changing Nature of Atmospheric Rivers. J. Climate, 38, 1435–1456, <https://doi.org/10.1175/JCLI-D-24-0234.1>.
 
 ### 2024
