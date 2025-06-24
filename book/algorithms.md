@@ -113,7 +113,7 @@ Algorithm Grid, by Christine Shields
 :::{tab-item} Nellikkattil et al. (SCAFET)
 | Developer | Type | Geometry Req. | Threshold Req. | Temporal Req. | Region | DOI/Reference |
 | --------- | ---- | ------------- | -------------- | ------------- | ------ | ------------- |
-| Nellikkattil et al. (SCAFET) | Condition and Track | Local geometric shape | Threshold free on IVT but precipitation > 1 mm/day | Time slice | Global | In preparation | 
+| Nellikkattil et al. (SCAFET) | Condition and Track | Local geometric shape | Threshold free on IVT but precipitation > 1 mm/day | Time slice | Global  [10.1038/s43247-023-00963-7](http://doi.org/10.1038/s43247-023-00963-7) | 
 :::
 
 :::{tab-item} O'Brien et al. (teca_bard_v1.01 = CASCADE_bard_v1)
