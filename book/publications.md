@@ -6,6 +6,9 @@
  
 ### 2025
 
+
+Dong, B., Ullrich, P., Lee, J., Gleckler, P., Chang, K., and O'Brien, T. A.: A new metrics framework for quantifying and intercomparing atmospheric rivers in observations, reanalyses, and climate models, Geosci. Model Dev., 18, 961–976, <https://doi.org/10.5194/gmd-18-961-2025>, 2025.
+
 **Rush, W. D., Lora, J. M., Skinner, C. B., Menemenlis, S. A., Shields, C. A., Ullrich, P., O’Brien, T., A., Brands, S., Guan, B., Mattingly, K.S., McClenny, E., Nardi, K., Nellikkattil, A., Ramos A., Reid,  K.J., Shearer, E., Tomé, R., Wille, J.D., Leung, L.R., Ralph, F., M., Rutz, J.J., Wehner, M., Zhang, Z., Lu, M., Quagraine, K.T (2025). Atmospheric river detection under changing seasonality and mean-state climate: ARTMIP tier 2 paleoclimate experiments. Journal of Geophysical Research: Atmospheres, 130, e2024JD042222. <https://doi.org/10.1029/2024JD042222.>**
 
 Huang, K., Shields, C. A., Hall, K. R., Richter, J. H., Li, Y., & Chen, C.-C. (2025). Modulations of atmospheric river climatology by the stratospheric quasi-biennial oscillation. Journal of Geophysical Research: Atmospheres, 130, e2024JD042390. <https://doi.org/10.1029/2024JD042390>.
