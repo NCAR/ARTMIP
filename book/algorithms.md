@@ -300,6 +300,6 @@ Algorithm Grid, by Christine Shields
 ![](images/ARTMIP_ARDT_Oct2022.png)
 
 ARTMIP AR Detection Tool (ARDT) Occurrences for Tier1 participants using MERRA-2 reanalysis data (1980-2017). Metrics are computed at coastline locations for Western North American (upper panel) and Western Europe (lower panel) and plotted by latitude to illustrate AR frequency differences solely due to ARDT. Key is given to the right of each panel for available algorithms shown on this page. Units are given in percent of ARs that occur at the coastline during MERRA-2 sample period. 
-ARTMIP Tier1 catalogues, figure creation C.Shields (Supplemental figure S3 Shields, Payne, et al 2023) [This Page](algorithms.md) and <https://www.earthsystemgrid.org/dataset/ucar.cgd.artmip.html>
+ARTMIP Tier1 catalogues, figure creation C.Shields (Supplemental figure S3 Shields, Payne, et al 2023) [This Page](algorithms.md) and <https://rda.ucar.edu/datasets/d651012/documentation/#>
 :::
 
