@@ -68,9 +68,11 @@ jobs:
           fi
 
   build-book:
-    needs: update-landing
+    #needs: update-landing
     #if: needs.update-landing.outputs.book_changed == 'true'
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
 
     steps:
       - name: Checkout repo
