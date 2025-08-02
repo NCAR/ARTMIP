@@ -1,15 +1,14 @@
 name: Auto Update Landing Page and Conditionally Build Book
 
 env:
-  DRY_RUN: false   # ← change to false when you're ready to actually push
+  DRY_RUN: false
 
 on:
-  workflow_dispatch:  # ← allows manually run it from the GitHub UI
+  workflow_dispatch:
   push:
     branches:
       - main
       - workflow
-      - '*'
     paths:
       - 'docs/algorithms/**'
       - 'generate_landing_page.py'
@@ -21,7 +20,7 @@ jobs:
     permissions:
       contents: write
     outputs:
-      book_changed: ${{ steps.check_book.outputs.changed }}
+      book_changed: ${{ steps.check.outputs.book_changed }}
 
     steps:
       - name: Checkout repo
@@ -35,31 +34,20 @@ jobs:
       - name: Install dependencies
         run: pip install jupyter-book
 
-      - name: Check if book/ changed
-        id: check_book
-        run: |
-          git fetch origin main
-          CHANGED=$(git diff --name-only HEAD origin/main -- 'book/**' | wc -l)
-          echo "changed=$CHANGED"
-          if [ "$CHANGED" -gt 0 ]; then
-            echo "changed=true" >> $GITHUB_OUTPUT
-          else
-            echo "changed=false" >> $GITHUB_OUTPUT
-          fi
-
-      - name: Run landing page generator
+      - name: Generate landing page
         run: python generate_landing_page.py
 
-      - name: Copy landing page to docs/
+      - name: Check if landing page changed
+        id: check
         run: |
-          mkdir -p docs
-          cp book/index.md docs/index.md
+          git fetch origin main
+          git diff --exit-code book/index.md > /dev/null || echo "book_changed=true" >> $GITHUB_OUTPUT
 
-      - name: Commit and push landing changes
+      - name: Commit landing page changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add book/index.md docs/index.md
+          git add book/index.md
           git diff --cached --quiet || git commit -m "Auto-update landing page"
           if [ "${DRY_RUN}" != "true" ]; then
             git push
