@@ -11,7 +11,7 @@ with open("algorithm_links.yaml", "r") as f:
 
 with open(output_md, "w") as f:
     f.write("# Algorithm Hub\n\n")
-    f.write("Below are links to the available algorithm pages:\n\n")
+    f.write("Below are links to the available algorithm workflow pages:\n\n")
 
     for algo, link_type in sorted(link_config.items()):
         if link_type.startswith("http"):

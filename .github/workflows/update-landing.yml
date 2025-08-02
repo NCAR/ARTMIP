@@ -1,7 +1,7 @@
 name: Auto Update Landing Page and Conditionally Build Book
 
 env:
-  DRY_RUN: true   # ← change to false when you're ready to actually push
+  DRY_RUN: false   # ← change to false when you're ready to actually push
 
 on:
   workflow_dispatch:  # ← allows manually run it from the GitHub UI
