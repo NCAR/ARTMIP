@@ -6,7 +6,10 @@ env:
 on:
   workflow_dispatch:  # ← allows manually run it from the GitHub UI
   push:
-    branches: [ main ]
+    branches:
+      - main
+      - workflow
+      - '*'
     paths:
       - 'docs/algorithms/**'
       - 'generate_landing_page.py'
