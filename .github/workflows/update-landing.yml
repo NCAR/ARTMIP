@@ -4,6 +4,7 @@ env:
   DRY_RUN: true   # ← change to false when you're ready to actually push
 
 on:
+  workflow_dispatch:  # ← allows manually run it from the GitHub UI
   push:
     branches: [ main ]
     paths:
