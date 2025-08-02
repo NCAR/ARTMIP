@@ -1,0 +1,100 @@
+name: Auto Update Landing Page and Conditionally Build Book
+
+env:
+  DRY_RUN: true   # ← change to false when you're ready to actually push
+
+on:
+  push:
+    branches: [ main ]
+    paths:
+      - 'docs/algorithms/**'
+      - 'generate_landing_page.py'
+      - 'book/**'
+
+jobs:
+  update-landing:
+    runs-on: ubuntu-latest
+    outputs:
+      book_changed: ${{ steps.check_book.outputs.changed }}
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: 3.11
+
+      - name: Install dependencies
+        run: pip install jupyter-book
+
+      - name: Check if book/ changed
+        id: check_book
+        run: |
+          git fetch origin main
+          CHANGED=$(git diff --name-only HEAD origin/main -- 'book/**' | wc -l)
+          echo "changed=$CHANGED"
+          if [ "$CHANGED" -gt 0 ]; then
+            echo "changed=true" >> $GITHUB_OUTPUT
+          else
+            echo "changed=false" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Run landing page generator
+        run: python generate_landing_page.py
+
+      - name: Copy landing page to docs/
+        run: |
+          mkdir -p docs
+          cp book/index.md docs/index.md
+
+      - name: Commit and push landing changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add book/index.md docs/index.md
+          git diff --cached --quiet || git commit -m "Auto-update landing page"
+          if [ "${DRY_RUN}" != "true" ]; then
+            git push
+          else
+            echo "🚫 DRY RUN: skipping git push"
+          fi
+
+  build-book:
+    needs: update-landing
+    if: needs.update-landing.outputs.book_changed == 'true'
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: 3.11
+
+      - name: Install Jupyter Book
+        run: pip install jupyter-book
+
+      - name: Build Jupyter Book
+        run: jupyter-book build book/
+
+      - name: Copy built book to docs/
+        run: |
+          mkdir -p docs
+          cp -r book/_build/html/* docs/
+
+      - name: Commit and push book output
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/
+          git diff --cached --quiet || git commit -m "Auto-rebuild Jupyter Book"
+          if [ "${DRY_RUN}" != "true" ]; then
+            git push
+          else
+            echo "🚫 DRY RUN: skipping git push"
+          fi
+
