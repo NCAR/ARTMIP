@@ -69,7 +69,7 @@ jobs:
 
   build-book:
     needs: update-landing
-    if: needs.update-landing.outputs.book_changed == 'true'
+    #if: needs.update-landing.outputs.book_changed == 'true'
     runs-on: ubuntu-latest
 
     steps:
