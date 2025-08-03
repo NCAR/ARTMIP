@@ -11,9 +11,9 @@ on:
       - workflow
       - '*'
     paths:
-      - 'docs/algorithms/**'
-      - 'generate_landing_page.py'
-      - 'book/**'
+      #      - 'docs/algorithms/**'
+      #      - 'generate_landing_page.py'
+      #      - 'book/**'
 
 jobs:
   update-landing:
