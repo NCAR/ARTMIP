@@ -1,6 +1,6 @@
 # Algorithm Hub
 
-Below are links to the available algorithm workflow pages:
+Below are links to the available algorithm pages:
 
 - [dummy1](../docs/under-development/)
 - [dummy2](../docs/under-development/)
