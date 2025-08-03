@@ -8,6 +8,8 @@ chapters:
   title: Program Goals
 - file: algorithms
   title: Algorithms
+- file: workflows
+  title: Workflows
 - file: experimental-design
   title: Experimental Design
 - file: timeline

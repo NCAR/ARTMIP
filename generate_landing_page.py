@@ -2,7 +2,8 @@ import os
 import yaml
 
 algorithms_dir = "docs/algorithms"
-output_md = "book/index.md"
+#output_md = "book/index.md"
+output_md = "book/workflows.md"
 under_dev_url = "../docs/under-development/"
 
 # Load external links (if provided)
@@ -10,7 +11,7 @@ with open("algorithm_links.yaml", "r") as f:
     link_config = yaml.safe_load(f)
 
 with open(output_md, "w") as f:
-    f.write("# Algorithm Hub\n\n")
+    f.write("# Algorithm Workflow Hub\n\n")
     f.write("Below are links to the available algorithm workflow pages:\n\n")
 
     for algo, link_type in sorted(link_config.items()):
