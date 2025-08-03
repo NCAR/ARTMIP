@@ -18,6 +18,8 @@ on:
 jobs:
   update-landing:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     outputs:
       book_changed: ${{ steps.check_book.outputs.changed }}
 
@@ -73,6 +75,8 @@ jobs:
     needs: update-landing
     if: needs.update-landing.outputs.book_changed == 'true'
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
 
     steps:
       - name: Checkout repo
