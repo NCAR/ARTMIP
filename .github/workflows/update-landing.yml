@@ -10,7 +10,7 @@ on:
       - main
       - workflow
       - '*'
-    paths:
+    #paths:
       #      - 'docs/algorithms/**'
       #      - 'generate_landing_page.py'
       #      - 'book/**'
