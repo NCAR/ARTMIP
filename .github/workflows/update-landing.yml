@@ -100,10 +100,18 @@ jobs:
 
       - name: Commit and push book output
         run: |
+          echo "📁 Checking what’s in docs/ before git add:"
+          ls -l docs/
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add docs/
+          git status
+          git diff --cached
           git diff --cached --quiet || git commit -m "Auto-rebuild Jupyter Book"
+          #          git config user.name "github-actions[bot]"
+          #          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          #          git add docs/
+          #          git diff --cached --quiet || git commit -m "Auto-rebuild Jupyter Book"
           if [ "${DRY_RUN}" != "true" ]; then
           #git push
             git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:${{ github.ref }}
