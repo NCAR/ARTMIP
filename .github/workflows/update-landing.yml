@@ -62,7 +62,9 @@ jobs:
           git add book/workflows.md docs/workflows.md
           git diff --cached --quiet || git commit -m "Auto-update landing page"
           if [ "${DRY_RUN}" != "true" ]; then
-            git push
+          #git push
+            git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:${{ github.ref }}
+
           else
             echo "🚫 DRY RUN: skipping git push"
           fi
@@ -99,7 +101,9 @@ jobs:
           git add docs/
           git diff --cached --quiet || git commit -m "Auto-rebuild Jupyter Book"
           if [ "${DRY_RUN}" != "true" ]; then
-            git push
+          #git push
+            git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:${{ github.ref }}
+
           else
             echo "🚫 DRY RUN: skipping git push"
           fi
