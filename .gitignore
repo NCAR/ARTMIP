@@ -69,7 +69,12 @@ instance/
 .scrapy
 
 # Sphinx documentation
-docs/_build/
+# docs/_build/
+# docs/_*
+
+# Ignore Jupyter Book build folders
+docs/_*
+book/_build/
 
 # PyBuilder
 .pybuilder/
