@@ -6,6 +6,8 @@
  
 ### 2025
 
+Scholz, S. R., & Lora, J. M. (2025). Widespread increase in atmospheric river frequency and impacts over the 20th century. AGU Advances, 6, e2025AV001888. <https://doi.org/10.1029/2025AV001888>.
+
 Kamnani, D., O’Brien, T. A., Smith, S., Staten, P. W., & Shields, C. A. (2025). Regional and temporal variability of Atmospheric River seasonality: Influences of Detection Algorithms and moisture transport dynamics. Journal of Geophysical Research: Atmospheres, 130, e2024JD043032. <https://doi.org/10.1029/2024JD043032>.
 
 Dong, B., Ullrich, P., Lee, J., Gleckler, P., Chang, K., and O'Brien, T. A.: A new metrics framework for quantifying and intercomparing atmospheric rivers in observations, reanalyses, and climate models, Geosci. Model Dev., 18, 961–976, <https://doi.org/10.5194/gmd-18-961-2025>, 2025.
