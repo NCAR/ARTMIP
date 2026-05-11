@@ -4,8 +4,8 @@
 :align: center
 | Completed/<br>In-Progress | Target Date | Activity |
 | :---: | ------------- | ------------- |
-|          | On-going | Design for new experiements (S2S, ERA5 extension) |
-|          | On-going | Tier 2 Polar and and Overall Synethsis Paper |
+|          | On-going 2026 | Design for new experiements (S2S, ERA5 extension) |
+|          | On-going 2026 | Tier 2 Polar and and Overall Synethsis Paper |
 |          | On-going | Tier 1 and Tier 2 Analysis and Scientific Papers |
 | &#10003;| **March 2024** | **Future ARTMIP directions survey** |
 | &#10003;| **Feb 21<sup>st</sup> 2024** | **Future Directions Telecom** |
