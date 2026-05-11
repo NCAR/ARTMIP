@@ -1,7 +1,6 @@
 # Timeline
 
 :::{table} Completed targets are indicated with a checkmark, if you want to contribute a catalogue, please contact Christine.
-:label: table
 :align: center
 | Completed/<br>In-Progress | Target Date | Activity |
 | :---: | ------------- | ------------- |
