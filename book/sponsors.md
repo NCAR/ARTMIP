@@ -1,7 +1,6 @@
 # Sponsors
 
 :::{table} Organizing Committee Sponsors are listed below.
-:label: table
 :align: center
 |  |  |  |
 | --------------------------------- | ------------------------------------- | ------------------------------------- |
