@@ -55,4 +55,4 @@ Tier 1 and Tier 2 (where applicable) will include comparisons to precipitation d
 
 **Juan Lora** (Yale):  Tier 2 Paleo
 
-**Kyle Mattingly** (U.Wisc), **Michelle Maclennan** (BAS), **Joseph Schnaubelt** (Yale):  Tier 2 Polar
+**Kyle Mattingly** (U.Wisc), **Michelle Maclennan** (BAS), **Joseph Schnaubelt** (U.Conn):  Tier 2 Polar
