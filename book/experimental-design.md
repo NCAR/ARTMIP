@@ -25,10 +25,9 @@ Participants run their algorithms on a common dataset and adhere to a common for
 ## Tier 2
 
 :::{figure-md} AR-CAM5
-:numbered: false
 :width: 40%
 :align: right
-![](images/Experimental02-AR-CAM5.jpeg)
+![AR-CAM5](images/Experimental02-AR-CAM5.jpeg)
 
 Simulated AR using 0.25° CAM5 with RCP8.5 <br>forcing. Plot showing integrated water vapor.
 :::
@@ -54,3 +53,5 @@ Tier 1 and Tier 2 (where applicable) will include comparisons to precipitation d
 **Allison Collow** (NASA, GMAO):  Tier 2 Reanalysis
 
 **Juan Lora** (Yale):  Tier 2 Paleo
+
+**Kyle Mattingly** (U.Wisc), **Michelle Maclennan** (BAS), **Joseph Schnaubelt** (U.Conn):  Tier 2 Polar

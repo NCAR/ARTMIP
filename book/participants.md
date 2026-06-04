@@ -1,5 +1,7 @@
 # Participants
 
+**Interested in joining ARTMIP and signing up for the mailing list? Email Shields @ ucar.edu**
+
 ARTMIP is a grass-roots community effort and includes a collection of international researchers from universities, laboratories, and agencies. Co-chairs, committee members, and Tier leads include Jonathan Rutz, Christine Shields, L. Ruby Leung, F. Martin Ralph, and Michael Wehner, Ashley Payne, Travis O'Brien, Allison Collow, and Juan Lora. ARTMIP has received support from the US Department of Energy Office of Science Biological and Environmental Research (BER) as part of the Regional and Global Climate Modeling program, and the Center for Western Weather and Water Extremes (CW3E) at Scripps Institute for Oceanography at the University of California, San Diego.
 
 For participants, please refer to our overview papers:
