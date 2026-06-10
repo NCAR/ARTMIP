@@ -8,7 +8,7 @@
 
 **Goals**
 * Develop a roadmap for ARTMIP's role in for community and open science 
-* <i>Ideas?</i> Please fill email shields @ ucar.edu
+* <i>Ideas?</i> Please email shields @ ucar.edu
 
 ---
 ## Past Events
@@ -18,7 +18,6 @@
 
 **Goals**
 * Develop a roadmap for ARTMIP's role in for community and open science 
-* <i>Ideas?</i> Please fill out this [survey](https://forms.gle/Fai2qPAyiaxYxvSX9)
 
 **Outcomes**
 * Writing an ARTMIP Synthesis paper to summarize ARTMIP findings across experiements
