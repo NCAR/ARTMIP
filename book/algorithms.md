@@ -173,7 +173,7 @@ Algorithm Grid, by Christine Shields
 :::{tab-item} Shields and Kiehl<sup>b</sup>
 | Developer | Type | Geometry Req. | Threshold Req. | Temporal Req. | Region | DOI/Reference |
 | --------- | ---- | ------------- | -------------- | ------------- | ------ | ------------- |
-| Shields and Kiehl<sup>b</sup> | Condition | Ratio 2:1, length to width grid points min 200km length; 850mb wind direction from specified regional quadrants, landfalling only | Relative: <sup>a</sup>ZN moisture threshold using IWV; Wind threshold defined by regional 85<sup>th</sup> percentile 850mb wind magnitudes | Time slice | Western U.S. Iberian Peninsula, UK, adaptable but regional specific | [10.1002/2016GL069476](https://doi.org/10.1002/2016GL069476)<br>[10.1002/2016GL070470](https://doi.org/10.1002/2016GL070470) | 
+| Shields and Kiehl<sup>b</sup> | Condition | Ratio 2:1, length to width grid points min 200km length; 850mb wind direction from specified regional quadrants, landfalling only coastal transects at timeslices; no footprint | Relative: <sup>a</sup>ZN moisture threshold using IWV; Wind threshold defined by regional 85<sup>th</sup> percentile 850mb wind magnitudes | Time slice | Western U.S. Iberian Peninsula, UK, adaptable but regional specific | [10.1002/2016GL069476](https://doi.org/10.1002/2016GL069476)<br>[10.1002/2016GL070470](https://doi.org/10.1002/2016GL070470) | 
 :::
 
 :::{tab-item} TEMPEST<sup>b</sup>
