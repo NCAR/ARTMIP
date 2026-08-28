@@ -5,6 +5,8 @@
 
 ### 2026
 
+Kerns, B., Chen, S.S. Global Atmospheric River Lifecycle Detection Using Integrated Water Vapor and Vapor Transport. Sci Data 12, 1931 (2025). <https://doi.org/10.1038/s41597-025-06198-9>.
+
 Zhang, C., Cassano, J. J., Seefeldt, M. W., Tung, W.-w., Mahesh, A., & Collins, W. D. (2026). Evaluating atmospheric river impacts on energy and moisture transport in the Arctic using different detection algorithms. Journal of Geophysical Research: Atmospheres, 131, e2025JD043335. <https://doi.org/10.1029/2025JD043335>.
 
 ### 2025
