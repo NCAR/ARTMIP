@@ -156,6 +156,6 @@ Shearer, E. J., Nguyen, P., Sellars, S. L., Analui, B., Kawzenuk, B., Hsu, K., e
 
 Shields, C. A., and J. T. Kiehl, 2016: Simulating the Pineapple Express in the half degree Community Climate System Model, CCSM4, Geophys. Res. Lett., 43, 7767–7773, [doi:10.1002/2016GL069476](https://doi.org/10.1002/2016GL069476).
 
-Viale, M., R. Valenzuela, R.D. Garreaud, and F.M. Ralph, 2018: Impacts of Atmospheric Rivers on Precipitation in Southern South America. Journal of Hydrometerology,(In review).
+Viale, M., R. Valenzuela, R.D. Garreaud, and F.M. Ralph, 2018: Impacts of Atmospheric Rivers on Precipitation in Southern South America. Journal of Hydrometerology,https://doi.org/10.1175/JHM-D-18-0006.1.
 
 Wick, G.A., P. J. Neiman and F. M. Ralph, 2013: Description and Validation of an Automated Objective Technique for Identification and Characterization of the Integrated Water Vapor Signature of Atmospheric Rivers, IEEE Transactions on Geoscience and Remote Sensing, vol. 51, no. 4, pp. 2166-2176, [doi: 10.1109/TGRS.2012.2211024](https://doi.org/10.1109/TGRS.2012.2211024)
